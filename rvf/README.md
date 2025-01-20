@@ -1,2 +1,0 @@
-# rvf
-rift-valley-fever

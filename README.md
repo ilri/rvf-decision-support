@@ -1,1 +1,2 @@
-# rvf-decision-support
+# rvf
+rift-valley-fever
