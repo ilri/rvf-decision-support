@@ -1,0 +1,86 @@
+[
+  {
+    "model": "dss.subevent",
+    "pk": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "name": "Localised mosquito swarns reported by eye-withness",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.subevent",
+    "pk": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "name": "First detection of suspected RVF in human",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.subevent",
+    "pk": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "name": "Localised, prolonged heavy rains reported by eye-witnesses",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.subevent",
+    "pk": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "name": "Laboratory confirmation of RVF cases in human",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.subevent",
+    "pk": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "name": "Laboratory confirmation of RVF cases in livestock",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.subevent",
+    "pk": "d2755b55-3720-4517-ac1a-51b224d1b670",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "name": "Localised flooding reported by eye-withness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.subevent",
+    "pk": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "name": "First detection  of suspected RVF in livestock",
+      "status": true,
+      "order": 1
+    }
+  }
+]

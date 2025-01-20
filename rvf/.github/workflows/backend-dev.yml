@@ -1,0 +1,71 @@
+# Name of the Github Workflow
+name: BACKEND-DEV
+
+# Backend code will be merged upon receiving a push request to the develop branch.
+on:
+    push:
+        branches: [ develop ]
+        paths: ["backend/**"]
+
+
+jobs:
+    # backend-build is build name of backend (we can choose anything)
+    backend-build:
+        # This "backend-build" job will run on self-hosted (i.e. a machine or server set up and maintained by the repository owner and rvf-dev is label of Action Runner)
+        runs-on: [self-hosted, rvf-dev]
+        strategy:
+            matrix:
+                python-version: [3.9] # To Install the python version
+
+        steps:
+            # This Step will checkout the code from above mentioned branch. (In our case its - develop)
+            - name: Checkout Code
+              uses: actions/checkout@v2
+
+            # This step will install the mentioned Python version.
+            - name: Set up Python ${{ matrix.python-version }}
+              uses: actions/setup-python@v2
+              with:
+                python-version: ${{ matrix.python-version }}
+
+            # Remove main project backend directory
+            - name: Remove Backend Directory
+              run: sudo rm -rf /var/www/django/rvf/backend
+
+            # Copy latest checkout Github code to main project backend directory
+            - name: Copy Latest Backend code to Main Project Backend Directory
+              run: sudo cp -r /var/www/NGINX/actions-runner/_work/rvf/rvf/backend /var/www/django/rvf
+
+            # Copy Environment file to main project backend directory
+            - name: Copy Environment File to Main Project Backend Directory
+              run: sudo cp -r /var/www/django/.env /var/www/django/rvf/backend
+
+            # Run PM2 Commands
+            - name: Run All PM2 Commands
+              run: |
+                sudo pm2 stop all
+                sudo pm2 delete all
+                sudo pm2 save --force
+                sudo rm -rf  /root/.pm2/logs/*
+                sudo pm2 start /var/www/NGINX/ecosystem.config.js
+
+
+    # This Job for Slack Notification
+    slack-notification:
+        runs-on: ubuntu-latest
+
+        needs: backend-build
+        if: ${{ always() }}
+
+        steps:
+            # Slack Notification
+            - name: Slack Notification
+              uses: rtCamp/action-slack-notify@v2
+              env:
+                SLACK_CHANNEL: rift-valley-fever
+                SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
+                SLACK_ICON: https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-03-21/6861629912400_9e885486444c7f45d5f7_72.png
+                SLACK_MESSAGE: Dev Deployment Done on BE -> http://43.204.7.2:8000/
+                SLACK_TITLE: RVF Development Server Successful
+                SLACK_USERNAME: RVF
+                SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}

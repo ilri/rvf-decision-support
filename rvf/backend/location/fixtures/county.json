@@ -1,0 +1,722 @@
+[
+  {
+    "model": "location.county",
+    "pk": "0586b0ae-01d1-4fb0-b31a-83eda8006091",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.627Z",
+      "updated_date": "2023-10-05T08:37:34.627Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Marsabit",
+      "code": "",
+      "latitude": "2.978700",
+      "longitude": "37.569500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "06b66695-213f-4553-9de0-6a4b32cea87e",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.692Z",
+      "updated_date": "2023-10-05T08:37:34.692Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Busia",
+      "code": "",
+      "latitude": "0.387500",
+      "longitude": "34.193700",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "0a6bc0bb-bb3c-4bb7-ac15-53e3ebabb429",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.607Z",
+      "updated_date": "2023-10-05T08:37:34.607Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kilifi",
+      "code": "",
+      "latitude": "-3.175400",
+      "longitude": "39.686700",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.698Z",
+      "updated_date": "2023-10-05T08:37:34.698Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Migori",
+      "code": "",
+      "latitude": "-0.989600",
+      "longitude": "34.363400",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "0f54504a-f014-438a-b078-d68d262e11b8",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.638Z",
+      "updated_date": "2023-10-05T08:37:34.638Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Embu",
+      "code": "",
+      "latitude": "-0.603900",
+      "longitude": "37.626500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "12b9e163-0152-45db-8c40-effd8bbc9c8f",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.622Z",
+      "updated_date": "2023-10-05T08:37:34.622Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Wajir",
+      "code": "",
+      "latitude": "1.808200",
+      "longitude": "40.035000",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "14cc1f41-722d-406f-af20-ec25074f3e34",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.706Z",
+      "updated_date": "2023-10-05T08:37:34.706Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kisumu",
+      "code": "",
+      "latitude": "-0.169500",
+      "longitude": "34.835200",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "157e62fa-3948-454e-81ba-68c3e47933e2",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.671Z",
+      "updated_date": "2023-10-05T08:37:34.671Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Baringo",
+      "code": "",
+      "latitude": "0.669300",
+      "longitude": "35.946500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.696Z",
+      "updated_date": "2023-10-05T08:37:34.696Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Homa Bay",
+      "code": "",
+      "latitude": "-0.542900",
+      "longitude": "34.359100",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "1c29234b-cfc7-4c29-a560-ce4881ef0076",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.611Z",
+      "updated_date": "2023-10-05T08:37:34.611Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Lamu",
+      "code": "",
+      "latitude": "-2.078800",
+      "longitude": "40.882800",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "219ab201-858d-4b96-9e1c-429d7d03a20d",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.704Z",
+      "updated_date": "2023-10-05T08:37:34.704Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Nyamira",
+      "code": "",
+      "latitude": "-0.642700",
+      "longitude": "34.964700",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "26efb81f-856b-424b-ae0b-56c9d7f30cde",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.681Z",
+      "updated_date": "2023-10-05T08:37:34.681Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Makueni",
+      "code": "",
+      "latitude": "-2.157600",
+      "longitude": "37.788200",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "2848a253-ad94-4b00-af94-ddf93182b47e",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.609Z",
+      "updated_date": "2023-10-05T08:37:34.609Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Tana River",
+      "code": "",
+      "latitude": "-1.526400",
+      "longitude": "39.417900",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "2aa78c45-990f-4769-aed6-e9b219e8d8cd",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.665Z",
+      "updated_date": "2023-10-05T08:37:34.665Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Elegeyo-marakwet",
+      "code": "",
+      "latitude": "0.802200",
+      "longitude": "35.536600",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "32c9f409-df30-40b0-a971-013fdf68ece9",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.642Z",
+      "updated_date": "2023-10-05T08:37:34.642Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Machakos",
+      "code": "",
+      "latitude": "-1.279500",
+      "longitude": "37.412700",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "333d147a-bd91-4bde-8c61-4caa051822db",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.677Z",
+      "updated_date": "2023-10-05T08:37:34.677Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Narok",
+      "code": "",
+      "latitude": "-1.254800",
+      "longitude": "35.576300",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "3531d606-bfb9-4436-9f92-a8cb2fc5868d",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.612Z",
+      "updated_date": "2023-10-05T08:37:34.612Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Taita Taveta",
+      "code": "",
+      "latitude": "-3.434800",
+      "longitude": "38.418600",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.640Z",
+      "updated_date": "2023-10-05T08:37:34.640Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kitui",
+      "code": "",
+      "latitude": "-1.491000",
+      "longitude": "38.406900",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "435fa551-3576-4da7-949f-21f76939ae6c",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.658Z",
+      "updated_date": "2023-10-05T08:37:34.658Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "West Pokot",
+      "code": "",
+      "latitude": "1.740100",
+      "longitude": "35.243800",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "463d605f-bf25-4156-b2f0-5ce133795c04",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.646Z",
+      "updated_date": "2023-10-05T08:37:34.646Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Nyeri",
+      "code": "",
+      "latitude": "-0.342900",
+      "longitude": "36.956500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "49611c03-83fb-42b6-8b71-12fbe7f34cf4",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.688Z",
+      "updated_date": "2023-10-05T08:37:34.688Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Vihiga",
+      "code": "",
+      "latitude": "0.076200",
+      "longitude": "34.722300",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "5b502eb0-d4f4-47d2-8a0f-f118e31a82e9",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.652Z",
+      "updated_date": "2023-10-05T08:37:34.652Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Murang'a",
+      "code": "",
+      "latitude": "-0.809600",
+      "longitude": "37.032700",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "5da064a5-c434-4f10-a39a-764a98e9698d",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.668Z",
+      "updated_date": "2023-10-05T08:37:34.668Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Nandi",
+      "code": "",
+      "latitude": "0.186600",
+      "longitude": "35.110500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "7123cc00-f512-44b4-bdd8-03ddde82854e",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.694Z",
+      "updated_date": "2023-10-05T08:37:34.694Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Siaya",
+      "code": "",
+      "latitude": "-0.062200",
+      "longitude": "34.247600",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "76e2943a-2ed9-4eb9-a78f-93445ffc50ef",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.644Z",
+      "updated_date": "2023-10-05T08:37:34.644Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Nyandarua",
+      "code": "",
+      "latitude": "-0.322000",
+      "longitude": "36.482800",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "7ea44195-5930-4be7-b564-00e09a2924ff",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.601Z",
+      "updated_date": "2023-10-05T08:37:34.601Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Mombasa",
+      "code": "",
+      "latitude": "-4.021300",
+      "longitude": "39.650700",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "81561f21-46b0-40e6-91b0-8e8fec8babc1",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.678Z",
+      "updated_date": "2023-10-05T08:37:34.678Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kajiado",
+      "code": "",
+      "latitude": "-2.121400",
+      "longitude": "36.908900",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "8306f91c-d3b9-4706-bd1e-f60baf0208f8",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.656Z",
+      "updated_date": "2023-10-05T08:37:34.656Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Turkana",
+      "code": "",
+      "latitude": "3.424900",
+      "longitude": "35.435800",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "857d2488-8c97-4940-b560-9dd23ee99eea",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.620Z",
+      "updated_date": "2023-10-05T08:37:34.620Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Garissa",
+      "code": "",
+      "latitude": "-0.489000",
+      "longitude": "40.199300",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.632Z",
+      "updated_date": "2023-10-05T08:37:34.632Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Meru",
+      "code": "",
+      "latitude": "0.166700",
+      "longitude": "37.764000",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "883cfd98-6eaa-466c-8d45-1819acded358",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.702Z",
+      "updated_date": "2023-10-05T08:37:34.702Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Bomet",
+      "code": "",
+      "latitude": "-0.726300",
+      "longitude": "35.298600",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.700Z",
+      "updated_date": "2023-10-05T08:37:34.700Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kisii",
+      "code": "",
+      "latitude": "-0.774500",
+      "longitude": "34.774800",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "94594639-0610-42b9-8126-2577de152394",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.673Z",
+      "updated_date": "2023-10-05T08:37:34.673Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Laikipia",
+      "code": "",
+      "latitude": "0.323600",
+      "longitude": "36.771800",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "a76b68cb-9271-4a55-873f-9ed7a8612491",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.710Z",
+      "updated_date": "2023-10-05T08:37:34.710Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "nan",
+      "code": "",
+      "latitude": "-0.139300",
+      "longitude": "34.430100",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "a95b108c-f764-4d82-8847-cce29a79b83b",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.629Z",
+      "updated_date": "2023-10-05T08:37:34.629Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Isiolo",
+      "code": "",
+      "latitude": "1.010400",
+      "longitude": "38.542200",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "b347918d-2305-435a-bb4f-20b63c0ce59d",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.708Z",
+      "updated_date": "2023-10-05T08:37:34.708Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Trans Nzoia",
+      "code": "",
+      "latitude": "1.050900",
+      "longitude": "34.957400",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "c2d403a4-21c3-4d4f-9aac-f5b7c47f0611",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.662Z",
+      "updated_date": "2023-10-05T08:37:34.662Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Uasin Gishu",
+      "code": "",
+      "latitude": "0.526100",
+      "longitude": "35.322000",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.597Z",
+      "updated_date": "2023-10-05T08:37:34.597Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Nairobi",
+      "code": "",
+      "latitude": "-1.293400",
+      "longitude": "36.868100",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "cb7efa54-aa37-4863-990b-557a133f0473",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.625Z",
+      "updated_date": "2023-10-05T08:37:34.625Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Mandera",
+      "code": "",
+      "latitude": "3.436500",
+      "longitude": "40.738700",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "d1086504-5421-4910-a954-4a4a2699da92",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.648Z",
+      "updated_date": "2023-10-05T08:37:34.648Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kirinyaga",
+      "code": "",
+      "latitude": "-0.524700",
+      "longitude": "37.319900",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "d2b1bbe8-dc9e-47be-99eb-20b8637476fb",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.684Z",
+      "updated_date": "2023-10-05T08:37:34.684Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kericho",
+      "code": "",
+      "latitude": "-0.295800",
+      "longitude": "35.314000",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "d695c45a-5706-4cb8-ad81-2cbee09132e7",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.660Z",
+      "updated_date": "2023-10-05T08:37:34.660Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Samburu",
+      "code": "",
+      "latitude": "1.316900",
+      "longitude": "37.118400",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "e076b8d6-80d5-4da8-9d58-ba0f7ef99c65",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.636Z",
+      "updated_date": "2023-10-05T08:37:34.636Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Tharaka - Nithi",
+      "code": "",
+      "latitude": "-0.207100",
+      "longitude": "37.870400",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.654Z",
+      "updated_date": "2023-10-05T08:37:34.654Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kiambu",
+      "code": "",
+      "latitude": "-1.068700",
+      "longitude": "36.823500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "e695a420-9ee3-477e-a12e-bcb74287886c",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.686Z",
+      "updated_date": "2023-10-05T08:37:34.686Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kakamega",
+      "code": "",
+      "latitude": "0.403700",
+      "longitude": "34.744500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.675Z",
+      "updated_date": "2023-10-05T08:37:34.675Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Nakuru",
+      "code": "",
+      "latitude": "-0.463600",
+      "longitude": "36.078500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.690Z",
+      "updated_date": "2023-10-05T08:37:34.690Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Bungoma",
+      "code": "",
+      "latitude": "0.749300",
+      "longitude": "34.640500",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  },
+  {
+    "model": "location.county",
+    "pk": "f763bfa0-cb72-4362-b600-c64744080310",
+    "fields": {
+      "created_date": "2023-10-05T08:37:34.605Z",
+      "updated_date": "2023-10-05T08:37:34.605Z",
+      "country": "e58ca297-ca6c-4c61-b496-0af81192b046",
+      "name": "Kwale",
+      "code": "",
+      "latitude": "-4.183200",
+      "longitude": "39.190300",
+      "status": true,
+      "zoom_level": 8.0
+    }
+  }
+]

@@ -1,0 +1,1444 @@
+[
+  {
+    "model": "dss.category",
+    "pk": "03261423-a4d6-4772-b2fb-4e1f63723f0d",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "Research on risk, impact and climate change assessment",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "047ef48b-8e9d-48e1-ae4b-77407e2241f8",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "053c37c3-005b-43b6-8209-43b6530b6ec8",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "06f36bc4-25f4-40db-bdc9-e241ad9eacc7",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "08488211-e182-4c20-a06c-4e63ed74be3d",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Communication, advocacy and public awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "0d60067d-125b-4a4f-a6bd-60153d3192b9",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "0d7c832a-497a-42ff-ac1e-86173ec309bc",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "0f2a37e1-0e06-44aa-ab05-928a575596c5",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "143b76b8-6fa9-4af4-8aa0-35499df1564a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "Surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "14f829f4-6e1e-4a3e-b818-8f46a347f37e",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "1847946c-75e8-4b8d-9e1c-207b3398c484",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "19101cfa-3e8a-4e4f-9769-28dfc1723cea",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "1978152d-d6ec-4842-8d26-9dcaf6fdfd4d",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "1affb71e-12e5-485a-adbe-657e0614c87b",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "1edc9c8f-4935-4759-8514-271ea3893add",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Recovery",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "2145f42d-0a43-44a9-873f-4da5880575d1",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Research on Risk, impact and climate change assessment",
+      "status": true,
+      "order": 19
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "230f63d9-ecb8-41ad-85cb-122bf88e14e6",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "24b4ad0b-ce1c-4a78-afc0-938dbf0e57dd",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:29:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "Vector control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "25e8b7aa-0506-4464-a8e2-8d4e194b2023",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Surveillance",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "26886725-ed31-4d73-8c4e-3a79df569fb7",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Disease prevention ",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "291dee27-9d1b-44c3-8c6f-54f715c146f2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Trade",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "295d8dc8-88ab-4dc0-9c69-6b3d1cb79213",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "2be03a81-ea2f-4b6f-80a6-294764a92fb0",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "2e833596-6ac3-442a-a146-189116ad2c09",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "32dc3dcb-3b6b-49e7-9349-2bc771feec6d",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "Technical Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "35703361-6867-4b70-9128-6de031d3f08c",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "National and regional coordination",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "39298405-100c-4444-92a3-0b37d48b058d",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "39b44d3e-c6ec-4ec2-b5d0-7cd187900628",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Funding",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "39cc164b-0b45-4eb0-b220-c910bf0e8af9",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "3c0d971d-4c5e-41d6-9e11-50c9c3854d88",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "436c2a4f-d13b-428f-855a-fd4a4e24599f",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "443e215f-5e6c-4c08-a3e7-99547977a40f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Institutions and policies",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "46b53e9a-12be-40e4-9548-b347c3d5a3d4",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "48dbf051-dcae-417b-9306-f1ee899401de",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "4af686db-ceef-4806-9d14-78c52a2ff8ad",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Funding",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "4bdcfe45-1db7-4388-98b6-5da21445d763",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "Vector control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "4df5e90f-5946-4f44-a353-e879992c37a1",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "Vector control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "4ea0c806-8cc9-4ba6-8e26-4d9b8218f72e",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "54e8581f-6894-4408-beb2-96f35558f240",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "55cfdedb-8304-4334-ad94-e1be2b8836f0",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "Vector control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "5bb538a5-3d5c-40d5-93d4-51372e044566",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "5d0dbd0e-2018-4151-ad1a-783c22f1c964",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "Surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "6210d89a-12a0-4ed9-898f-f3663299b09a",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "Vector control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "6227948d-92a5-48e7-a0a1-1364e734543d",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Research on prevention and control, risk, impact and climate change",
+      "status": true,
+      "order": 11
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "62f09c65-2506-40e9-8f48-e27122867dff",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "65463ba5-6b3e-4e76-85bb-2d22442bbd82",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "65538640-9b1a-4828-b7f1-36fccc43a663",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "Surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "6611cf92-d5f1-4baf-9615-786a7e149490",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Institutions and policies",
+      "status": true,
+      "order": 10
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "68536d64-68bd-49fe-819b-69e6e73b3a58",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "6ace28bd-31cf-4b68-9d77-412c8fc706f1",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "6d8bc258-6d47-4912-85e5-ea2fc3f72860",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "71616aa5-f9bc-4f09-9f16-2e5c94fd0a76",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "Communication, advocacy and awareness",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "722fa69d-7f76-4a5a-b930-e25a22e49205",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "Research on risk, impact and climate change assessment ",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Surveillance",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "7a597787-71ac-4459-92ff-69368d8b9593",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "7aebb4de-3c9e-411f-9a47-e0a93b6f2a4e",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "Vector control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "Surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "85babebb-47ad-452b-9b8e-4ca75804d6f7",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Vector control",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "878c3ef6-0f2c-464a-acb0-688c0bcfd33d",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Vector control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "88d6b5f7-3162-4423-a9e0-c71cf87a8c45",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "Research on Risk, impact and climate change assessment ",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "89a700af-90a5-4cc4-bacf-46a8ef6b4ada",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "8becb967-7101-4e4f-bffe-1cd39dbf54d1",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "8c2be1a6-a225-4cdf-9bdb-1c1b3bca5b84",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "Technical Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "8c850144-64d6-4f08-8122-9729b0b375c2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "9a05aab5-3f1e-40a7-a022-7d4f60336289",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "Technical Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "a5e8ec10-0865-42ac-b63f-b8eaa5f45580",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "990e7c42-4a92-4e05-abca-caa5de10fb19",
+      "name": "Surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "a889d006-8b88-4ba1-928b-473e2764963f",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "b18197cb-8ea5-440f-b61f-8c619f041efa",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Research on Risk, impact assessment and risk assessment\n",
+      "status": true,
+      "order": 10
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "b3c4855a-14e6-43cd-b595-667606b12e97",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "Research on risk, impact and climate change assessment ",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "b691d315-8673-4f1a-9313-b2b2bcc95659",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "Vector control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "b80f9bc3-d4fe-495f-a08b-6caa8a89d764",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "bae41b88-a7c2-4b64-9d79-243b783e3582",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "bc67d946-928a-450f-9845-2b1c69080073",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "Surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "bfc15ed9-3028-4696-906d-e5a490342cf4",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "Research on risk, impact and climate change assessment ",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "c0ff335b-1256-4272-a430-a3272d01e18f",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Early warning",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "c5b697fe-1dd3-4e7b-9302-c8d5f0d863da",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "ca2eade8-e6bc-493f-987a-01b6988eb8f4",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "cd40f5bc-5391-4a14-b561-f3724ce63147",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+      "sub_event": "d131c644-ded2-4939-bba1-e6b22854ba7e",
+      "name": "Research on Risk, impact and climate change assessment ",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "ceb42d68-d566-49bd-ae76-9354b5c14142",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "d28bb429-bc4a-4370-bb3c-2e80b07de995",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "d326a6cf-0a09-4e6f-abb5-33f19b3bb81e",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "Technical Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "d4855a52-3a29-4f43-8693-05c1504087f6",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "d57c555b-c579-425f-8cf4-83bba86ac29d",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "Funding",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "d7860d20-cb1c-4f39-afb8-fd69f57e3076",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "d975f6d9-3977-4987-9150-222432910e8c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+      "sub_event": null,
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "de21a344-4508-4782-b149-a4da0b1cde5d",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "e1f303bf-cb76-41ac-af6d-7a19a2b57273",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Early warning ",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "e2a9b922-f06f-41c1-8be9-3651fabbfac5",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "67b04e34-8c8c-499a-9292-c0c77e98f614",
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "e35e8c60-51cd-41ea-9e5c-65aa6988d491",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Recovery",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "e60d7ae1-5b48-473f-9c91-795ff259dbfc",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "Surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "ed827c15-c454-46a0-826f-011d2a7ec3e7",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "Capacity and response ",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f0065a2b-5433-4783-8dcb-2bd5440b5530",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "d2755b55-3720-4517-ac1a-51b224d1b670",
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f18ee35d-5371-4292-a4a6-72de98946fe8",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "Surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f24bc819-061d-4ea5-bf1e-4e48139a99c8",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T13:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "Research on risk, impact and climate change assessment ",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f2af80a7-d1ae-4a5e-a12c-c0a04c445e56",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Trade",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f51151e7-be9c-4f8e-823b-4ee3f479de94",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+      "sub_event": "24b90212-c177-4f0b-85c0-10a6244aaa1d",
+      "name": "Trade",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f79bfefe-a50e-41b0-80a8-c3c0bcf4a363",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+      "event": null,
+      "sub_event": null,
+      "name": "Capacity",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f8476e31-43f0-452c-be7c-6022a52da8a8",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Disease prevention and control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f8515d47-87a4-47a2-a1a2-6c94fecdf4df",
+    "fields": {
+      "created_date": "2023-10-05T12:28:33.266Z",
+      "updated_date": "2023-10-05T12:28:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "event": "ea931541-6d92-4db0-8401-54a3736f472f",
+      "sub_event": null,
+      "name": "Surveillance",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "f90618a2-0266-4c4e-8a23-0efedd99bb10",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "event": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+      "sub_event": null,
+      "name": "Vector control",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "fa64460f-df65-42c1-ac02-3501cd0c83b5",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "f460d57c-ea69-43a2-b06e-f806c37b3a90",
+      "name": "National and regional coordination ",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.category",
+    "pk": "fe79bf2d-69a6-4c27-9177-38dadcd14d90",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "event": "a692523c-23ec-4741-9866-4de08b4fc58c",
+      "sub_event": "46c976b9-f717-4baf-8a12-8d9f48c954b4",
+      "name": "Research on risk, impact and climate change assessment ",
+      "status": true,
+      "order": 9
+    }
+  }
+]

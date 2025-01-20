@@ -1,0 +1,4352 @@
+[
+  {
+    "model": "location.subcounty",
+    "pk": "0102d342-a15f-4363-be57-b4cc322ce425",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.926Z",
+      "updated_date": "2023-10-05T08:41:47.926Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Navakholo",
+      "code": "",
+      "latitude": "0.393600",
+      "longitude": "34.674900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "023444c8-c095-4a16-a6bb-88e21c694578",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.089Z",
+      "updated_date": "2023-10-05T08:41:47.089Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "Igembe Central",
+      "code": "",
+      "latitude": "0.302300",
+      "longitude": "37.996100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "02c23ae7-2a75-4ca0-ab21-91e11dd2f3cb",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.818Z",
+      "updated_date": "2023-10-05T08:41:47.818Z",
+      "county": "0f54504a-f014-438a-b078-d68d262e11b8",
+      "name": "Runyenjes",
+      "code": "",
+      "latitude": "-0.405600",
+      "longitude": "37.556000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "05781df2-0f8b-4a67-8560-58b7c2eb534b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.617Z",
+      "updated_date": "2023-10-05T08:41:47.617Z",
+      "county": "cb7efa54-aa37-4863-990b-557a133f0473",
+      "name": "Mandera South",
+      "code": "",
+      "latitude": "2.783500",
+      "longitude": "40.770500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "059ccfce-bf40-4fbc-bf8f-24e6d674cbb1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.777Z",
+      "updated_date": "2023-10-05T08:41:47.777Z",
+      "county": "883cfd98-6eaa-466c-8d45-1819acded358",
+      "name": "Sotik",
+      "code": "",
+      "latitude": "-0.756000",
+      "longitude": "35.135700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "06a6b6cb-327b-48ce-b9b0-ca190bdffffc",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.877Z",
+      "updated_date": "2023-10-05T08:41:47.877Z",
+      "county": "463d605f-bf25-4156-b2f0-5ce133795c04",
+      "name": "Nyeri Town",
+      "code": "",
+      "latitude": "-0.418800",
+      "longitude": "36.966700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "06ac4f91-8066-43de-8a3f-81e0fc13c0a8",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.684Z",
+      "updated_date": "2023-10-05T08:41:47.684Z",
+      "county": "1c29234b-cfc7-4c29-a560-ce4881ef0076",
+      "name": "Lamu West",
+      "code": "",
+      "latitude": "-2.160900",
+      "longitude": "40.569300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "07c562d7-bda2-4d2b-9056-985ef20c6a51",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.823Z",
+      "updated_date": "2023-10-05T08:41:47.823Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Ruiru",
+      "code": "",
+      "latitude": "-1.198400",
+      "longitude": "37.029800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "080f7eaa-c782-4098-8784-08683b8e4589",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.110Z",
+      "updated_date": "2023-10-05T08:41:47.110Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Gatundu South",
+      "code": "",
+      "latitude": "-0.969800",
+      "longitude": "36.823200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0a924356-95bc-4621-bb72-7802890aebb7",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.325Z",
+      "updated_date": "2023-10-05T08:41:47.325Z",
+      "county": "7ea44195-5930-4be7-b564-00e09a2924ff",
+      "name": "Kisauni",
+      "code": "",
+      "latitude": "-3.970400",
+      "longitude": "39.686500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0b8562c1-332b-4543-b16e-2c81165a6087",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.497Z",
+      "updated_date": "2023-10-05T08:41:47.497Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Kabete",
+      "code": "",
+      "latitude": "-1.213100",
+      "longitude": "36.697800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0c987e78-1008-4731-bb42-5c762dce4ddb",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.169Z",
+      "updated_date": "2023-10-05T08:41:47.169Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Embakasi Central",
+      "code": "",
+      "latitude": "-1.267100",
+      "longitude": "36.916100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0cffba31-2c96-4c14-b2de-fcbbf231396b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.717Z",
+      "updated_date": "2023-10-05T08:41:47.717Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Kuresoi South",
+      "code": "",
+      "latitude": "-0.517600",
+      "longitude": "35.636600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0dea8a1f-899e-4358-b52c-7dded3416451",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.190Z",
+      "updated_date": "2023-10-05T08:41:47.190Z",
+      "county": "b347918d-2305-435a-bb4f-20b63c0ce59d",
+      "name": "Cherangany",
+      "code": "",
+      "latitude": "1.026200",
+      "longitude": "35.191600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0e4da30c-4215-427a-b55e-24537a755a4f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.947Z",
+      "updated_date": "2023-10-05T08:41:47.947Z",
+      "county": "333d147a-bd91-4bde-8c61-4caa051822db",
+      "name": "Narok East",
+      "code": "",
+      "latitude": "-1.152000",
+      "longitude": "36.121600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0e5203cc-1a6e-4ea8-b9b3-1b0283014ed5",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.556Z",
+      "updated_date": "2023-10-05T08:41:47.556Z",
+      "county": "157e62fa-3948-454e-81ba-68c3e47933e2",
+      "name": "Mogotio",
+      "code": "",
+      "latitude": "0.171500",
+      "longitude": "35.979100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0ee2766f-8773-4bc9-a684-417055696946",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.341Z",
+      "updated_date": "2023-10-05T08:41:47.341Z",
+      "county": "76e2943a-2ed9-4eb9-a78f-93445ffc50ef",
+      "name": "Kinangop",
+      "code": "",
+      "latitude": "-0.702800",
+      "longitude": "36.610500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "0f2afcbd-a4df-4bf1-8e1d-092385356332",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.242Z",
+      "updated_date": "2023-10-05T08:41:47.242Z",
+      "county": "883cfd98-6eaa-466c-8d45-1819acded358",
+      "name": "Bomet Central",
+      "code": "",
+      "latitude": "-0.722600",
+      "longitude": "35.317000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "108d9d6d-f71a-4b3a-993f-80ed153d9ebc",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.203Z",
+      "updated_date": "2023-10-05T08:41:47.203Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "Cental Imenti",
+      "code": "",
+      "latitude": "-0.008800",
+      "longitude": "37.611400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "12446579-a1e1-438f-a0f8-65b28dbf172a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.581Z",
+      "updated_date": "2023-10-05T08:41:47.581Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Mathare",
+      "code": "",
+      "latitude": "-1.258100",
+      "longitude": "36.860600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "12d37ae6-8a7e-4cfc-add9-107491bb305e",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.386Z",
+      "updated_date": "2023-10-05T08:41:47.386Z",
+      "county": "5b502eb0-d4f4-47d2-8a0f-f118e31a82e9",
+      "name": "Kigumo",
+      "code": "",
+      "latitude": "-0.790900",
+      "longitude": "36.925400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "15cee88b-5c82-4df1-9d1d-58f9f44c94db",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.804Z",
+      "updated_date": "2023-10-05T08:41:47.804Z",
+      "county": "d695c45a-5706-4cb8-ad81-2cbee09132e7",
+      "name": "Samburu East",
+      "code": "",
+      "latitude": "1.081300",
+      "longitude": "37.476600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "16b2ff93-9ac4-4fab-a0bf-b185b8cbbd3f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.187Z",
+      "updated_date": "2023-10-05T08:41:47.187Z",
+      "county": "5da064a5-c434-4f10-a39a-764a98e9698d",
+      "name": "Chesumei",
+      "code": "",
+      "latitude": "0.284000",
+      "longitude": "35.093000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "1897e18b-5c25-4e62-b4d1-9ba2fa02ecd9",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.044Z",
+      "updated_date": "2023-10-05T08:41:48.044Z",
+      "county": "7123cc00-f512-44b4-bdd8-03ddde82854e",
+      "name": "Ugunja",
+      "code": "",
+      "latitude": "0.193800",
+      "longitude": "34.340600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "18ae40b2-61cf-40bb-8c38-a3d7209689dd",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.389Z",
+      "updated_date": "2023-10-05T08:41:47.389Z",
+      "county": "463d605f-bf25-4156-b2f0-5ce133795c04",
+      "name": "Kieni",
+      "code": "",
+      "latitude": "-0.234500",
+      "longitude": "36.942800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "18d1b355-5166-4d50-be55-1618d98d1454",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.889Z",
+      "updated_date": "2023-10-05T08:41:47.889Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "Nyaribari Chache",
+      "code": "",
+      "latitude": "-0.739100",
+      "longitude": "34.822700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "19072ecf-b9c8-4405-8344-7f3f9a4d49be",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.185Z",
+      "updated_date": "2023-10-05T08:41:47.185Z",
+      "county": "857d2488-8c97-4940-b560-9dd23ee99eea",
+      "name": "Dadaab",
+      "code": "",
+      "latitude": "0.079800",
+      "longitude": "40.418200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "1a82fe84-8fb1-4ab9-8548-8baee1adbed7",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.041Z",
+      "updated_date": "2023-10-05T08:41:48.041Z",
+      "county": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+      "name": "Uriri",
+      "code": "",
+      "latitude": "-0.939900",
+      "longitude": "34.448300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "1ae312bc-cdc2-4c7e-83cd-cc857b197556",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.840Z",
+      "updated_date": "2023-10-05T08:41:47.840Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Rongai",
+      "code": "",
+      "latitude": "-0.096400",
+      "longitude": "35.992200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "1c341e7a-741d-4efa-9df0-e52c8027b1c4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.427Z",
+      "updated_date": "2023-10-05T08:41:47.427Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Kasarani",
+      "code": "",
+      "latitude": "-1.249400",
+      "longitude": "37.008300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "1d5d6611-90bd-403e-9179-1f45b3d862c1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.548Z",
+      "updated_date": "2023-10-05T08:41:47.548Z",
+      "county": "5da064a5-c434-4f10-a39a-764a98e9698d",
+      "name": "Mosop",
+      "code": "",
+      "latitude": "0.454300",
+      "longitude": "35.029800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "205b7c8d-576c-47b5-a364-451d1c3b0cab",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.475Z",
+      "updated_date": "2023-10-05T08:41:47.475Z",
+      "county": "81561f21-46b0-40e6-91b0-8e8fec8babc1",
+      "name": "Kajiado North",
+      "code": "",
+      "latitude": "-1.379800",
+      "longitude": "36.699300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "20bb0fae-c572-4b28-afb1-ed567c51b9c0",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.459Z",
+      "updated_date": "2023-10-05T08:41:47.459Z",
+      "county": "5b502eb0-d4f4-47d2-8a0f-f118e31a82e9",
+      "name": "Kandara",
+      "code": "",
+      "latitude": "-0.887500",
+      "longitude": "37.019500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "217dd714-0839-47ad-a1be-19aef6d62ae8",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.695Z",
+      "updated_date": "2023-10-05T08:41:47.695Z",
+      "county": "94594639-0610-42b9-8126-2577de152394",
+      "name": "Laikipia North",
+      "code": "",
+      "latitude": "0.424100",
+      "longitude": "36.937200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "22b9056f-6dbd-4087-b58b-fac2a66c5826",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.347Z",
+      "updated_date": "2023-10-05T08:41:47.347Z",
+      "county": "b347918d-2305-435a-bb4f-20b63c0ce59d",
+      "name": "Kiminini",
+      "code": "",
+      "latitude": "0.921900",
+      "longitude": "34.970700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "23a1ff2c-d533-4d14-80fe-29ca60fbcce4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.799Z",
+      "updated_date": "2023-10-05T08:41:47.799Z",
+      "county": "d695c45a-5706-4cb8-ad81-2cbee09132e7",
+      "name": "Samburu West",
+      "code": "",
+      "latitude": "1.040700",
+      "longitude": "36.638100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "25d612e1-2f25-4411-bcd5-70c72953bcce",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.152Z",
+      "updated_date": "2023-10-05T08:41:47.152Z",
+      "county": "49611c03-83fb-42b6-8b71-12fbe7f34cf4",
+      "name": "Emuhaya",
+      "code": "",
+      "latitude": "0.088000",
+      "longitude": "34.614600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "27536517-3b3a-4840-8f7b-2e5c000b0ed2",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.157Z",
+      "updated_date": "2023-10-05T08:41:47.157Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Embakasi West",
+      "code": "",
+      "latitude": "-1.271100",
+      "longitude": "36.889000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "27c691b6-926a-40db-8748-472e2d8ccf31",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.414Z",
+      "updated_date": "2023-10-05T08:41:47.414Z",
+      "county": "c2d403a4-21c3-4d4f-9aac-f5b7c47f0611",
+      "name": "Kesses",
+      "code": "",
+      "latitude": "0.223300",
+      "longitude": "35.391700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "27faa368-d16a-4450-b8ed-f987ff570062",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.424Z",
+      "updated_date": "2023-10-05T08:41:47.424Z",
+      "county": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+      "name": "Kasipul",
+      "code": "",
+      "latitude": "-0.499300",
+      "longitude": "34.709500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "29a12cbd-bf4f-443d-9321-51e11d210254",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.568Z",
+      "updated_date": "2023-10-05T08:41:47.568Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Matungu",
+      "code": "",
+      "latitude": "0.407800",
+      "longitude": "34.459800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "29ce9045-5f9d-4a97-bfcc-25d2d52d36dd",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.132Z",
+      "updated_date": "2023-10-05T08:41:48.132Z",
+      "county": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+      "name": "Suna East",
+      "code": "",
+      "latitude": "-1.054300",
+      "longitude": "34.487400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "2cbf65ba-2a48-411e-8062-06677d633cd6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.725Z",
+      "updated_date": "2023-10-05T08:41:47.725Z",
+      "county": "219ab201-858d-4b96-9e1c-429d7d03a20d",
+      "name": "Kitutu Masaba",
+      "code": "",
+      "latitude": "-0.688600",
+      "longitude": "34.902100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "2e81a9d0-5f30-43b9-960f-b43354bad733",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.013Z",
+      "updated_date": "2023-10-05T08:41:48.013Z",
+      "county": "12b9e163-0152-45db-8c40-effd8bbc9c8f",
+      "name": "Wajir South",
+      "code": "",
+      "latitude": "0.988000",
+      "longitude": "40.357800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "2e852166-e846-4011-80af-4c7ea5b7c413",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.351Z",
+      "updated_date": "2023-10-05T08:41:47.351Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Kimilili",
+      "code": "",
+      "latitude": "0.785100",
+      "longitude": "34.733600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "2ea458c7-049d-4780-ad2b-fcd7d8775ac1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.061Z",
+      "updated_date": "2023-10-05T08:41:48.061Z",
+      "county": "8306f91c-d3b9-4706-bd1e-f60baf0208f8",
+      "name": "Turkana East",
+      "code": "",
+      "latitude": "1.883900",
+      "longitude": "36.198100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "2f28911e-2327-460f-b9fc-9ae5a9949074",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.486Z",
+      "updated_date": "2023-10-05T08:41:47.486Z",
+      "county": "26efb81f-856b-424b-ae0b-56c9d7f30cde",
+      "name": "Kaiti",
+      "code": "",
+      "latitude": "-1.772500",
+      "longitude": "37.438300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "309d2b73-77ed-4d23-9b69-fea94db043fb",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.886Z",
+      "updated_date": "2023-10-05T08:41:47.886Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "Nyaribari Masaba",
+      "code": "",
+      "latitude": "-0.839100",
+      "longitude": "34.931800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "34f3a052-675e-405d-bed2-b57de34f8180",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.923Z",
+      "updated_date": "2023-10-05T08:41:47.923Z",
+      "county": "76e2943a-2ed9-4eb9-a78f-93445ffc50ef",
+      "name": "Ndaragwa",
+      "code": "",
+      "latitude": "-0.098700",
+      "longitude": "36.520500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "34fc6ab4-a316-4d42-aded-15b4cce49fb5",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.367Z",
+      "updated_date": "2023-10-05T08:41:47.367Z",
+      "county": "0a6bc0bb-bb3c-4bb7-ac15-53e3ebabb429",
+      "name": "Kilifi South",
+      "code": "",
+      "latitude": "-3.801400",
+      "longitude": "39.741300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "355cd66c-a730-4e6c-86e9-c07f3655561a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.851Z",
+      "updated_date": "2023-10-05T08:41:47.851Z",
+      "county": "0a6bc0bb-bb3c-4bb7-ac15-53e3ebabb429",
+      "name": "Rabai",
+      "code": "",
+      "latitude": "-3.892600",
+      "longitude": "39.614400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "3562301d-54d9-42e6-a9d2-bf7f1c45b165",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.867Z",
+      "updated_date": "2023-10-05T08:41:47.867Z",
+      "county": "463d605f-bf25-4156-b2f0-5ce133795c04",
+      "name": "Othaya",
+      "code": "",
+      "latitude": "-0.543400",
+      "longitude": "36.832500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "35bd8a9a-7a07-49b0-81dc-24cf7742cc3f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.997Z",
+      "updated_date": "2023-10-05T08:41:47.997Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Westlands",
+      "code": "",
+      "latitude": "-1.238500",
+      "longitude": "36.788300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "3772f886-10a4-453d-8289-ba5fa576f785",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.558Z",
+      "updated_date": "2023-10-05T08:41:47.558Z",
+      "county": "26efb81f-856b-424b-ae0b-56c9d7f30cde",
+      "name": "Mbooni",
+      "code": "",
+      "latitude": "-1.652000",
+      "longitude": "37.596200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "37797280-d27a-438a-a21d-8d08f99b3793",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.951Z",
+      "updated_date": "2023-10-05T08:41:47.951Z",
+      "county": "5da064a5-c434-4f10-a39a-764a98e9698d",
+      "name": "Nandi Hills",
+      "code": "",
+      "latitude": "0.123700",
+      "longitude": "35.265400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "38626a98-3cce-42fd-b4c9-dd0fa469b913",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.741Z",
+      "updated_date": "2023-10-05T08:41:47.741Z",
+      "county": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+      "name": "Suba North",
+      "code": "",
+      "latitude": "-0.457100",
+      "longitude": "34.175800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "399007c3-b50e-4a20-bbc8-971e46355b88",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.283Z",
+      "updated_date": "2023-10-05T08:41:47.283Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Bahati",
+      "code": "",
+      "latitude": "-0.218200",
+      "longitude": "36.152400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "3b00b904-f1f3-42a3-b9c8-b65340e29511",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.017Z",
+      "updated_date": "2023-10-05T08:41:48.017Z",
+      "county": "12b9e163-0152-45db-8c40-effd8bbc9c8f",
+      "name": "Wajir North",
+      "code": "",
+      "latitude": "2.935100",
+      "longitude": "39.603600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "3b2fdb8e-10e7-4ee8-b869-0490e4146314",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.532Z",
+      "updated_date": "2023-10-05T08:41:47.532Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Mumias East",
+      "code": "",
+      "latitude": "0.329700",
+      "longitude": "34.565300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "3f445c93-2029-4c67-9e0a-4dd0de7af3b4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.068Z",
+      "updated_date": "2023-10-05T08:41:48.068Z",
+      "county": "c2d403a4-21c3-4d4f-9aac-f5b7c47f0611",
+      "name": "Turbo",
+      "code": "",
+      "latitude": "0.599200",
+      "longitude": "35.113400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "3fbf1aa5-101e-4a40-9db9-118e3081987a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.668Z",
+      "updated_date": "2023-10-05T08:41:47.668Z",
+      "county": "7ea44195-5930-4be7-b564-00e09a2924ff",
+      "name": "Likoni",
+      "code": "",
+      "latitude": "-4.095200",
+      "longitude": "39.630800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "41563957-5304-4e10-ada4-b7bd0f7c8ab0",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.320Z",
+      "updated_date": "2023-10-05T08:41:47.320Z",
+      "county": "14cc1f41-722d-406f-af20-ec25074f3e34",
+      "name": "Kisumu East",
+      "code": "",
+      "latitude": "-0.106100",
+      "longitude": "34.793400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "41e71d3c-cd59-4bd7-b04d-686dc6197e0f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.167Z",
+      "updated_date": "2023-10-05T08:41:47.167Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Embakasi East",
+      "code": "",
+      "latitude": "-1.306100",
+      "longitude": "36.936800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "420691d4-7c0d-475c-9305-37ca49ef5400",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.333Z",
+      "updated_date": "2023-10-05T08:41:47.333Z",
+      "county": "d2b1bbe8-dc9e-47be-99eb-20b8637476fb",
+      "name": "Kipkelion West",
+      "code": "",
+      "latitude": "-0.148800",
+      "longitude": "35.396600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "42105128-d5d6-4689-b25d-c3ad4af285d1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.701Z",
+      "updated_date": "2023-10-05T08:41:47.701Z",
+      "county": "857d2488-8c97-4940-b560-9dd23ee99eea",
+      "name": "Lagdera",
+      "code": "",
+      "latitude": "0.493100",
+      "longitude": "39.347200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "43ae3f5e-86f1-4a98-8eca-122d5bc23115",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.603Z",
+      "updated_date": "2023-10-05T08:41:47.603Z",
+      "county": "2aa78c45-990f-4769-aed6-e9b219e8d8cd",
+      "name": "Marakwet East",
+      "code": "",
+      "latitude": "1.148700",
+      "longitude": "35.576500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "45318e61-77ff-4872-820a-7ed4254bc0a3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.102Z",
+      "updated_date": "2023-10-05T08:41:47.102Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Gilgil",
+      "code": "",
+      "latitude": "-0.539600",
+      "longitude": "36.260600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "4560c4e2-ea5f-43e9-9e1a-5789f81dafc1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.172Z",
+      "updated_date": "2023-10-05T08:41:47.172Z",
+      "county": "12b9e163-0152-45db-8c40-effd8bbc9c8f",
+      "name": "Eldas",
+      "code": "",
+      "latitude": "2.293500",
+      "longitude": "39.487600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "45fc6116-fdf4-4409-8011-c4d769110af6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.706Z",
+      "updated_date": "2023-10-05T08:41:47.706Z",
+      "county": "b347918d-2305-435a-bb4f-20b63c0ce59d",
+      "name": "Kwanza",
+      "code": "",
+      "latitude": "1.147900",
+      "longitude": "34.979300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "4763472b-7a86-43c1-9532-ce189633b97a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.561Z",
+      "updated_date": "2023-10-05T08:41:47.561Z",
+      "county": "32c9f409-df30-40b0-a971-013fdf68ece9",
+      "name": "Mavoko",
+      "code": "",
+      "latitude": "-1.435800",
+      "longitude": "37.058700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "480a3908-5c29-4dfc-ad65-9c019517284b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.003Z",
+      "updated_date": "2023-10-05T08:41:48.003Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Webuye West",
+      "code": "",
+      "latitude": "0.624600",
+      "longitude": "34.702900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "49515ad1-4552-441c-9f6d-1e77dbd85463",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.323Z",
+      "updated_date": "2023-10-05T08:41:47.323Z",
+      "county": "14cc1f41-722d-406f-af20-ec25074f3e34",
+      "name": "Kisumu Central",
+      "code": "",
+      "latitude": "-0.115800",
+      "longitude": "34.739400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "496f773e-267e-4c43-b158-2583b6794f26",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.421Z",
+      "updated_date": "2023-10-05T08:41:47.421Z",
+      "county": "32c9f409-df30-40b0-a971-013fdf68ece9",
+      "name": "Kathiani",
+      "code": "",
+      "latitude": "-1.414900",
+      "longitude": "37.297100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "4aa3964c-2200-47a3-a183-d3dc1be58a69",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.404Z",
+      "updated_date": "2023-10-05T08:41:47.404Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Kiambu",
+      "code": "",
+      "latitude": "-1.156900",
+      "longitude": "36.844800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "4b6bb2cd-b194-4bdb-be26-c6cad0e5589f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.051Z",
+      "updated_date": "2023-10-05T08:41:48.051Z",
+      "county": "8306f91c-d3b9-4706-bd1e-f60baf0208f8",
+      "name": "Turkana West",
+      "code": "",
+      "latitude": "4.074600",
+      "longitude": "34.635600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "4cb24475-7dfd-4b1b-94d9-5c858a154cc8",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.714Z",
+      "updated_date": "2023-10-05T08:41:47.714Z",
+      "county": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+      "name": "Kuria East",
+      "code": "",
+      "latitude": "-1.250100",
+      "longitude": "34.641200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "4f0bc7c9-bb23-42e6-9a79-05fa87e41d13",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.977Z",
+      "updated_date": "2023-10-05T08:41:47.977Z",
+      "county": "d1086504-5421-4910-a954-4a4a2699da92",
+      "name": "Mwea",
+      "code": "",
+      "latitude": "-0.646300",
+      "longitude": "37.387700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "4f3e3e3f-aa08-4bcc-9ef6-fad2f07da1c6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.483Z",
+      "updated_date": "2023-10-05T08:41:47.483Z",
+      "county": "81561f21-46b0-40e6-91b0-8e8fec8babc1",
+      "name": "Kajiado Central",
+      "code": "",
+      "latitude": "-2.195400",
+      "longitude": "36.817400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "50de4b2c-bff2-45e3-8cf2-192b25dd7c9f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.543Z",
+      "updated_date": "2023-10-05T08:41:47.543Z",
+      "county": "f763bfa0-cb72-4362-b600-c64744080310",
+      "name": "Msambweni",
+      "code": "",
+      "latitude": "-4.385700",
+      "longitude": "39.469900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5136545c-318f-4bf3-95c9-ca700462546d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.093Z",
+      "updated_date": "2023-10-05T08:41:47.093Z",
+      "county": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+      "name": "Homa Bay",
+      "code": "",
+      "latitude": "-0.550700",
+      "longitude": "34.470100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "531b0fc2-5d66-4cba-a0ce-69ddeee69701",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.220Z",
+      "updated_date": "2023-10-05T08:41:47.220Z",
+      "county": "2848a253-ad94-4b00-af94-ddf93182b47e",
+      "name": "Bura",
+      "code": "",
+      "latitude": "-0.597700",
+      "longitude": "39.247600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "57f1b547-c5dd-44b2-b668-29532139f0e6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.491Z",
+      "updated_date": "2023-10-05T08:41:47.491Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Kabuchai",
+      "code": "",
+      "latitude": "0.692400",
+      "longitude": "34.602800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "58e6bd8e-87d9-411d-85bd-028eb2b3f888",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.538Z",
+      "updated_date": "2023-10-05T08:41:47.538Z",
+      "county": "14cc1f41-722d-406f-af20-ec25074f3e34",
+      "name": "Muhoroni",
+      "code": "",
+      "latitude": "-0.105200",
+      "longitude": "35.080400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5999bb2c-5560-44c8-a105-a6327b47a27c",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.807Z",
+      "updated_date": "2023-10-05T08:41:47.807Z",
+      "county": "0586b0ae-01d1-4fb0-b31a-83eda8006091",
+      "name": "Saku",
+      "code": "",
+      "latitude": "2.336200",
+      "longitude": "37.947600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5a9d0968-c219-4197-98e7-ad0455eb623d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.200Z",
+      "updated_date": "2023-10-05T08:41:47.200Z",
+      "county": "7ea44195-5930-4be7-b564-00e09a2924ff",
+      "name": "Changamwe",
+      "code": "",
+      "latitude": "-4.023800",
+      "longitude": "39.600200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5b2c2b66-e459-484c-a476-3ed0f3b1fac3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.587Z",
+      "updated_date": "2023-10-05T08:41:47.587Z",
+      "county": "32c9f409-df30-40b0-a971-013fdf68ece9",
+      "name": "Masinga",
+      "code": "",
+      "latitude": "-0.945000",
+      "longitude": "37.606900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5bf547f5-b36f-4477-8e68-a61e7f3817e8",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.217Z",
+      "updated_date": "2023-10-05T08:41:47.217Z",
+      "county": "d2b1bbe8-dc9e-47be-99eb-20b8637476fb",
+      "name": "Buret",
+      "code": "",
+      "latitude": "-0.562200",
+      "longitude": "35.131500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5cec6361-7609-4961-8a2f-58d410bce1fa",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.317Z",
+      "updated_date": "2023-10-05T08:41:47.317Z",
+      "county": "14cc1f41-722d-406f-af20-ec25074f3e34",
+      "name": "Kisumu West",
+      "code": "",
+      "latitude": "-0.089200",
+      "longitude": "34.654800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5d89068b-1ab8-4abe-a000-022389d99a86",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.940Z",
+      "updated_date": "2023-10-05T08:41:47.940Z",
+      "county": "333d147a-bd91-4bde-8c61-4caa051822db",
+      "name": "Narok South",
+      "code": "",
+      "latitude": "-1.441200",
+      "longitude": "35.787000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5edce102-0dfb-462d-be36-7dd99503d951",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.431Z",
+      "updated_date": "2023-10-05T08:41:47.431Z",
+      "county": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+      "name": "Karachuonyo",
+      "code": "",
+      "latitude": "-0.362400",
+      "longitude": "34.600800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "5f0e349d-693a-4593-bee9-16547f16047d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.679Z",
+      "updated_date": "2023-10-05T08:41:47.679Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Langata",
+      "code": "",
+      "latitude": "-1.354300",
+      "longitude": "36.804600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "61b7fd63-bc91-4961-9637-304d826c5b6f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.255Z",
+      "updated_date": "2023-10-05T08:41:47.255Z",
+      "county": "d2b1bbe8-dc9e-47be-99eb-20b8637476fb",
+      "name": "Belgut",
+      "code": "",
+      "latitude": "-0.403200",
+      "longitude": "35.259900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "61d959f9-df6b-4ce7-bb6a-c89b7864af54",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.599Z",
+      "updated_date": "2023-10-05T08:41:47.599Z",
+      "county": "2aa78c45-990f-4769-aed6-e9b219e8d8cd",
+      "name": "Marakwet West",
+      "code": "",
+      "latitude": "1.016900",
+      "longitude": "35.433200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "63893ec3-74e8-40b3-9679-4e45e0391af2",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.833Z",
+      "updated_date": "2023-10-05T08:41:47.833Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Roysambu",
+      "code": "",
+      "latitude": "-1.203000",
+      "longitude": "36.883700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "63bbe1f9-507d-4e07-b2dd-5357564c91f6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.928Z",
+      "updated_date": "2023-10-05T08:41:47.928Z",
+      "county": "333d147a-bd91-4bde-8c61-4caa051822db",
+      "name": "Narok West",
+      "code": "",
+      "latitude": "-1.387800",
+      "longitude": "35.387500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "64488011-b2ac-49c5-acca-3a3a2b895869",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.136Z",
+      "updated_date": "2023-10-05T08:41:47.136Z",
+      "county": "2848a253-ad94-4b00-af94-ddf93182b47e",
+      "name": "Galole",
+      "code": "",
+      "latitude": "-1.492700",
+      "longitude": "39.502300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "653aea56-5d52-48b5-b381-4135fe8d0d86",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.304Z",
+      "updated_date": "2023-10-05T08:41:47.304Z",
+      "county": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+      "name": "Kitui South",
+      "code": "",
+      "latitude": "-2.165100",
+      "longitude": "38.540400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "65556818-6ea7-4e6c-aed8-8c539e96690e",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.957Z",
+      "updated_date": "2023-10-05T08:41:47.957Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Nakuru Town West",
+      "code": "",
+      "latitude": "-0.348300",
+      "longitude": "36.057700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "66f50afc-5ad6-4847-b8fc-fd1b4a3412a5",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.746Z",
+      "updated_date": "2023-10-05T08:41:47.746Z",
+      "county": "c2d403a4-21c3-4d4f-9aac-f5b7c47f0611",
+      "name": "Soy",
+      "code": "",
+      "latitude": "0.792100",
+      "longitude": "35.240000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "68d4c546-47ea-4fdb-a9ce-86c8ed432361",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.551Z",
+      "updated_date": "2023-10-05T08:41:47.551Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Molo",
+      "code": "",
+      "latitude": "-0.340000",
+      "longitude": "35.781100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "6b84ee92-d71e-49fa-84b9-5d0a753b7241",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.230Z",
+      "updated_date": "2023-10-05T08:41:47.230Z",
+      "county": "219ab201-858d-4b96-9e1c-429d7d03a20d",
+      "name": "Borabu",
+      "code": "",
+      "latitude": "-0.713700",
+      "longitude": "35.021800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "6d4d9b2d-d671-46ae-a2cc-a160a5d916f1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.020Z",
+      "updated_date": "2023-10-05T08:41:48.020Z",
+      "county": "12b9e163-0152-45db-8c40-effd8bbc9c8f",
+      "name": "Wajir East",
+      "code": "",
+      "latitude": "1.946900",
+      "longitude": "40.641000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "6d7c980b-02c6-4f44-a762-4eeaecb0f3ea",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.652Z",
+      "updated_date": "2023-10-05T08:41:47.652Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Lugari",
+      "code": "",
+      "latitude": "0.645800",
+      "longitude": "34.915200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "6daeb9fe-89bd-4a10-8fdd-5f196a489054",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.657Z",
+      "updated_date": "2023-10-05T08:41:47.657Z",
+      "county": "8306f91c-d3b9-4706-bd1e-f60baf0208f8",
+      "name": "Loima",
+      "code": "",
+      "latitude": "3.028200",
+      "longitude": "35.141400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "6f052823-c971-46ec-89c8-2a74490303c0",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.146Z",
+      "updated_date": "2023-10-05T08:41:47.146Z",
+      "county": "b347918d-2305-435a-bb4f-20b63c0ce59d",
+      "name": "Endebess",
+      "code": "",
+      "latitude": "1.127700",
+      "longitude": "34.772300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "6f37bf49-47f1-44cc-aabd-8bdea4a346be",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.545Z",
+      "updated_date": "2023-10-05T08:41:47.545Z",
+      "county": "0586b0ae-01d1-4fb0-b31a-83eda8006091",
+      "name": "Moyale",
+      "code": "",
+      "latitude": "3.141400",
+      "longitude": "38.823100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "70f42d0e-160c-4b73-9961-3c2d1a34686a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.411Z",
+      "updated_date": "2023-10-05T08:41:47.411Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Khwisero",
+      "code": "",
+      "latitude": "0.148100",
+      "longitude": "34.578800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "711b7bc7-e3cb-4fb3-9970-f03df336b3e2",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.329Z",
+      "updated_date": "2023-10-05T08:41:47.329Z",
+      "county": "d1086504-5421-4910-a954-4a4a2699da92",
+      "name": "Kirinyaga Central",
+      "code": "",
+      "latitude": "-0.433500",
+      "longitude": "37.265800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7165fbcc-ef26-4a2a-b1f7-2a832da0d890",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.625Z",
+      "updated_date": "2023-10-05T08:41:47.625Z",
+      "county": "0a6bc0bb-bb3c-4bb7-ac15-53e3ebabb429",
+      "name": "Malindi",
+      "code": "",
+      "latitude": "-3.213600",
+      "longitude": "39.902500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "726e0884-4334-4a42-b9e4-acee915bf11b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.509Z",
+      "updated_date": "2023-10-05T08:41:47.509Z",
+      "county": "a95b108c-f764-4d82-8847-cce29a79b83b",
+      "name": "Isiolo North",
+      "code": "",
+      "latitude": "1.263000",
+      "longitude": "38.467100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "73f1a419-613b-44e7-991d-0a48cca02bbe",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.065Z",
+      "updated_date": "2023-10-05T08:41:48.065Z",
+      "county": "8306f91c-d3b9-4706-bd1e-f60baf0208f8",
+      "name": "Turkana Central",
+      "code": "",
+      "latitude": "3.166500",
+      "longitude": "35.911800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "743be503-4481-4543-9524-769be117fd89",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.908Z",
+      "updated_date": "2023-10-05T08:41:47.908Z",
+      "county": "0586b0ae-01d1-4fb0-b31a-83eda8006091",
+      "name": "North Horr",
+      "code": "",
+      "latitude": "3.380300",
+      "longitude": "37.384600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "755c4d05-463e-4291-a400-077364ba99f0",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.377Z",
+      "updated_date": "2023-10-05T08:41:47.377Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Kikuyu",
+      "code": "",
+      "latitude": "-1.246000",
+      "longitude": "36.614500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "75a8e812-96bc-4892-870a-a0cb0c532855",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.249Z",
+      "updated_date": "2023-10-05T08:41:47.250Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "Bomachoge Borabu",
+      "code": "",
+      "latitude": "-0.910500",
+      "longitude": "34.754800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7667aca5-9d4f-4870-94fa-890f12bd681b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.986Z",
+      "updated_date": "2023-10-05T08:41:47.986Z",
+      "county": "32c9f409-df30-40b0-a971-013fdf68ece9",
+      "name": "Mwala",
+      "code": "",
+      "latitude": "-1.418200",
+      "longitude": "37.524300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "783add10-a7a5-47f3-a193-89d702d006da",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.163Z",
+      "updated_date": "2023-10-05T08:41:47.163Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Embakasi North",
+      "code": "",
+      "latitude": "-1.247100",
+      "longitude": "36.897500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7888acef-b989-4fc3-9d3f-92d6d7359fc1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.408Z",
+      "updated_date": "2023-10-05T08:41:47.408Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Kiambaa",
+      "code": "",
+      "latitude": "-1.162600",
+      "longitude": "36.763000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "78f6d36e-c2e5-49d6-b48d-1ed7369314e2",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.462Z",
+      "updated_date": "2023-10-05T08:41:47.462Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Kamukunji",
+      "code": "",
+      "latitude": "-1.273900",
+      "longitude": "36.857000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7ad58001-74f6-4fa3-98f9-f4ad1b1ee1c8",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.456Z",
+      "updated_date": "2023-10-05T08:41:47.456Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Kanduyi",
+      "code": "",
+      "latitude": "0.556600",
+      "longitude": "34.591600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7c07091d-2af0-4d5c-abe4-ed668a656ef1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.921Z",
+      "updated_date": "2023-10-05T08:41:47.921Z",
+      "county": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+      "name": "Ndhiwa",
+      "code": "",
+      "latitude": "-0.731200",
+      "longitude": "34.381300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7cf15cf8-9cca-4f65-b2c3-cdb38d1d9614",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.106Z",
+      "updated_date": "2023-10-05T08:41:48.106Z",
+      "county": "3531d606-bfb9-4436-9f92-a8cb2fc5868d",
+      "name": "Taveta",
+      "code": "",
+      "latitude": "-3.425000",
+      "longitude": "37.959000",
+      "status": true,
+      "zoom_level": 9.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7e600dbf-4262-42fc-8528-afcfda1cac49",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.401Z",
+      "updated_date": "2023-10-05T08:41:47.401Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Kibra",
+      "code": "",
+      "latitude": "-1.303500",
+      "longitude": "36.786900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7f6f4a2e-7c5b-4f28-8831-510def4e6600",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.314Z",
+      "updated_date": "2023-10-05T08:41:47.314Z",
+      "county": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+      "name": "Kitui Central",
+      "code": "",
+      "latitude": "-1.372900",
+      "longitude": "38.013800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "7f98ff50-7a11-4910-bbc1-9220c531e342",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.638Z",
+      "updated_date": "2023-10-05T08:41:47.638Z",
+      "county": "0a6bc0bb-bb3c-4bb7-ac15-53e3ebabb429",
+      "name": "Magarini",
+      "code": "",
+      "latitude": "-2.901000",
+      "longitude": "39.734700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "805c45b7-6903-4cfd-9213-d0a46e93f3c6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.450Z",
+      "updated_date": "2023-10-05T08:41:47.450Z",
+      "county": "32c9f409-df30-40b0-a971-013fdf68ece9",
+      "name": "Kangundo",
+      "code": "",
+      "latitude": "-1.339100",
+      "longitude": "37.358000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "809cc183-5af0-49a0-b7f6-ff0db9b373b4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.182Z",
+      "updated_date": "2023-10-05T08:41:47.182Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Dagoretti",
+      "code": "",
+      "latitude": "-1.282600",
+      "longitude": "36.715100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "809ce5e9-48c3-40d9-a770-6afc64f2e343",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.088Z",
+      "updated_date": "2023-10-05T08:41:48.088Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Thika Town",
+      "code": "",
+      "latitude": "-1.063400",
+      "longitude": "37.162000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "81071114-5958-4521-bfb9-be2ec1d0911b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.943Z",
+      "updated_date": "2023-10-05T08:41:47.943Z",
+      "county": "333d147a-bd91-4bde-8c61-4caa051822db",
+      "name": "Narok North",
+      "code": "",
+      "latitude": "-0.825600",
+      "longitude": "35.874900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "8134a08b-e731-4d78-bc1a-436eaa71ba23",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.628Z",
+      "updated_date": "2023-10-05T08:41:47.628Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Malava",
+      "code": "",
+      "latitude": "0.451600",
+      "longitude": "34.834400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "81401869-ffd9-4b17-bbc7-ad961d18778f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.035Z",
+      "updated_date": "2023-10-05T08:41:48.035Z",
+      "county": "3531d606-bfb9-4436-9f92-a8cb2fc5868d",
+      "name": "Voi",
+      "code": "",
+      "latitude": "-3.303900",
+      "longitude": "38.649700",
+      "status": true,
+      "zoom_level": 9.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "83220e59-8044-4bd1-975a-de6c858d9a5a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.506Z",
+      "updated_date": "2023-10-05T08:41:47.506Z",
+      "county": "a95b108c-f764-4d82-8847-cce29a79b83b",
+      "name": "Isiolo South",
+      "code": "",
+      "latitude": "0.632300",
+      "longitude": "38.654500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "83ba62ef-2a0d-4e77-80bc-701c0ac1b92e",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.900Z",
+      "updated_date": "2023-10-05T08:41:47.900Z",
+      "county": "14cc1f41-722d-406f-af20-ec25074f3e34",
+      "name": "Nyakach",
+      "code": "",
+      "latitude": "-0.321500",
+      "longitude": "34.906100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "843e86a6-6bc9-4687-9a9a-c75a900a6bbb",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.553Z",
+      "updated_date": "2023-10-05T08:41:47.553Z",
+      "county": "c2d403a4-21c3-4d4f-9aac-f5b7c47f0611",
+      "name": "Moiben",
+      "code": "",
+      "latitude": "0.711300",
+      "longitude": "35.397200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "86b37c43-c57c-4b5c-b1e4-e855eaa04fc2",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.526Z",
+      "updated_date": "2023-10-05T08:41:47.526Z",
+      "county": "7ea44195-5930-4be7-b564-00e09a2924ff",
+      "name": "Mvita",
+      "code": "",
+      "latitude": "-4.051300",
+      "longitude": "39.662400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "87796c13-86e3-4f78-bb8d-a5cfeae0a584",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.417Z",
+      "updated_date": "2023-10-05T08:41:47.417Z",
+      "county": "2aa78c45-990f-4769-aed6-e9b219e8d8cd",
+      "name": "Keiyo South",
+      "code": "",
+      "latitude": "0.357200",
+      "longitude": "35.587400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "8a02c7ee-6950-40f9-8f57-f48a015351a1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.048Z",
+      "updated_date": "2023-10-05T08:41:48.048Z",
+      "county": "7123cc00-f512-44b4-bdd8-03ddde82854e",
+      "name": "Ugenya",
+      "code": "",
+      "latitude": "0.237700",
+      "longitude": "34.226600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "8aded636-5018-4ae1-93b7-582923819511",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.307Z",
+      "updated_date": "2023-10-05T08:41:47.307Z",
+      "county": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+      "name": "Kitui Rural",
+      "code": "",
+      "latitude": "-1.513700",
+      "longitude": "37.867400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "8c30eff9-de8e-4c83-85a2-3f3a6d301636",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.239Z",
+      "updated_date": "2023-10-05T08:41:47.239Z",
+      "county": "883cfd98-6eaa-466c-8d45-1819acded358",
+      "name": "Bomet East",
+      "code": "",
+      "latitude": "-0.836400",
+      "longitude": "35.419300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "8ccd343b-8e2a-4630-89f6-fa34c38a44e7",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.571Z",
+      "updated_date": "2023-10-05T08:41:47.571Z",
+      "county": "f763bfa0-cb72-4362-b600-c64744080310",
+      "name": "Matuga",
+      "code": "",
+      "latitude": "-4.247400",
+      "longitude": "39.401700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "8e1562ab-09c8-4f9e-8d83-1094959095bf",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.469Z",
+      "updated_date": "2023-10-05T08:41:47.469Z",
+      "county": "81561f21-46b0-40e6-91b0-8e8fec8babc1",
+      "name": "Kajiado West",
+      "code": "",
+      "latitude": "-1.725100",
+      "longitude": "36.390400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "8ec5123d-4cc9-4415-a709-284cb495942f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.687Z",
+      "updated_date": "2023-10-05T08:41:47.687Z",
+      "county": "1c29234b-cfc7-4c29-a560-ce4881ef0076",
+      "name": "Lamu East",
+      "code": "",
+      "latitude": "-1.836500",
+      "longitude": "41.093600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "8ef3e3f0-7cec-4cc6-a5b3-a28f9af20d18",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.419Z",
+      "updated_date": "2023-10-05T08:41:47.419Z",
+      "county": "2aa78c45-990f-4769-aed6-e9b219e8d8cd",
+      "name": "Keiyo North",
+      "code": "",
+      "latitude": "0.708100",
+      "longitude": "35.544100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "909f73a6-e370-4da3-9522-92b307a1f1c9",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.233Z",
+      "updated_date": "2023-10-05T08:41:47.233Z",
+      "county": "7123cc00-f512-44b4-bdd8-03ddde82854e",
+      "name": "Bondo",
+      "code": "",
+      "latitude": "-0.162000",
+      "longitude": "34.127600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "90c390b0-6076-4b88-8304-03775ad7ed56",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.802Z",
+      "updated_date": "2023-10-05T08:41:47.802Z",
+      "county": "d695c45a-5706-4cb8-ad81-2cbee09132e7",
+      "name": "Samburu North",
+      "code": "",
+      "latitude": "1.682800",
+      "longitude": "36.832100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "94d41ed5-650a-4dc4-81af-9c2d17356793",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.911Z",
+      "updated_date": "2023-10-05T08:41:47.911Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Njoro",
+      "code": "",
+      "latitude": "-0.484100",
+      "longitude": "35.968200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "956b4430-63f9-4a37-a6d7-5287415bac08",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.504Z",
+      "updated_date": "2023-10-05T08:41:47.504Z",
+      "county": "7ea44195-5930-4be7-b564-00e09a2924ff",
+      "name": "Jomvu",
+      "code": "",
+      "latitude": "-3.992300",
+      "longitude": "39.605000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "95f24cb1-81c8-4722-abc1-b64ad0c1735e",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.359Z",
+      "updated_date": "2023-10-05T08:41:47.359Z",
+      "county": "26efb81f-856b-424b-ae0b-56c9d7f30cde",
+      "name": "Kilome",
+      "code": "",
+      "latitude": "-1.845400",
+      "longitude": "37.284000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "97769d3b-1375-4cc8-abcb-ff1d8a40986d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.344Z",
+      "updated_date": "2023-10-05T08:41:47.344Z",
+      "county": "f763bfa0-cb72-4362-b600-c64744080310",
+      "name": "Kinango",
+      "code": "",
+      "latitude": "-3.979600",
+      "longitude": "39.104900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "98caff2e-9684-43f0-ac0f-5acfffeadc15",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.108Z",
+      "updated_date": "2023-10-05T08:41:48.108Z",
+      "county": "12b9e163-0152-45db-8c40-effd8bbc9c8f",
+      "name": "Tarbaj",
+      "code": "",
+      "latitude": "2.356200",
+      "longitude": "40.232400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "99bbd502-7e34-4e35-b2c6-3bb2e09612e4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.689Z",
+      "updated_date": "2023-10-05T08:41:47.689Z",
+      "county": "0586b0ae-01d1-4fb0-b31a-83eda8006091",
+      "name": "Laisamis",
+      "code": "",
+      "latitude": "2.300500",
+      "longitude": "37.360400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "9a1a6615-5c45-4c31-b4cd-2dd4a09c587a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.794Z",
+      "updated_date": "2023-10-05T08:41:47.794Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Shinyalu",
+      "code": "",
+      "latitude": "0.273400",
+      "longitude": "34.857500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "9dd38f62-edaf-4e16-adb2-d602c563ca17",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.154Z",
+      "updated_date": "2023-10-05T08:41:47.154Z",
+      "county": "5da064a5-c434-4f10-a39a-764a98e9698d",
+      "name": "Emgwen",
+      "code": "",
+      "latitude": "0.184600",
+      "longitude": "35.091000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a0299aca-3f2b-438d-ad17-8d88c8c1698f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.606Z",
+      "updated_date": "2023-10-05T08:41:47.606Z",
+      "county": "5b502eb0-d4f4-47d2-8a0f-f118e31a82e9",
+      "name": "Maragwa",
+      "code": "",
+      "latitude": "-0.872000",
+      "longitude": "37.180300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a1bf8ff3-6b51-4081-b0cd-00d575e61cff",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.843Z",
+      "updated_date": "2023-10-05T08:41:47.843Z",
+      "county": "7123cc00-f512-44b4-bdd8-03ddde82854e",
+      "name": "Rarieda",
+      "code": "",
+      "latitude": "-0.251500",
+      "longitude": "34.351600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a1cdc041-3cb8-49af-a696-a91b22bd5b58",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.728Z",
+      "updated_date": "2023-10-05T08:41:47.728Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "Kitutu Chache South",
+      "code": "",
+      "latitude": "-0.618200",
+      "longitude": "34.753900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a247f1b2-5359-478c-a805-4bde6fc7e00b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.494Z",
+      "updated_date": "2023-10-05T08:41:47.494Z",
+      "county": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+      "name": "Kabondo Kasipul",
+      "code": "",
+      "latitude": "-0.440800",
+      "longitude": "34.861700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a2a37f71-6738-400e-a34c-36436fbce1e6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.643Z",
+      "updated_date": "2023-10-05T08:41:47.643Z",
+      "county": "e076b8d6-80d5-4da8-9d58-ba0f7ef99c65",
+      "name": "Maara",
+      "code": "",
+      "latitude": "-0.233600",
+      "longitude": "37.631400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a2c8f35a-1658-4e2d-9009-5447100bf158",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.437Z",
+      "updated_date": "2023-10-05T08:41:47.437Z",
+      "county": "435fa551-3576-4da7-949f-21f76939ae6c",
+      "name": "Kapenguria",
+      "code": "",
+      "latitude": "1.515100",
+      "longitude": "35.145600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a34e9356-2808-4f6d-b7aa-c3ce34ac9dc0",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.097Z",
+      "updated_date": "2023-10-05T08:41:47.097Z",
+      "county": "49611c03-83fb-42b6-8b71-12fbe7f34cf4",
+      "name": "Hamisi",
+      "code": "",
+      "latitude": "0.097900",
+      "longitude": "34.821100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a6e79df3-1da6-4005-9491-edfb0e7e7155",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.612Z",
+      "updated_date": "2023-10-05T08:41:47.612Z",
+      "county": "cb7efa54-aa37-4863-990b-557a133f0473",
+      "name": "Mandera West",
+      "code": "",
+      "latitude": "3.427200",
+      "longitude": "40.147200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a80e9231-bcc6-4e02-b82c-46742b7ac873",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.738Z",
+      "updated_date": "2023-10-05T08:41:47.738Z",
+      "county": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+      "name": "Suba South",
+      "code": "",
+      "latitude": "-0.642800",
+      "longitude": "34.093300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "a96c67a0-730e-477f-9e16-c7930d4a64e1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.905Z",
+      "updated_date": "2023-10-05T08:41:47.905Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "North Imenti",
+      "code": "",
+      "latitude": "0.057100",
+      "longitude": "37.716000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "aa0a8aa4-2012-4489-81af-cb1b858fc93d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.632Z",
+      "updated_date": "2023-10-05T08:41:47.632Z",
+      "county": "26efb81f-856b-424b-ae0b-56c9d7f30cde",
+      "name": "Makueni",
+      "code": "",
+      "latitude": "-1.959200",
+      "longitude": "37.686700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "aa658568-5fa1-453b-a9b0-b662d2f86a03",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.892Z",
+      "updated_date": "2023-10-05T08:41:47.892Z",
+      "county": "14cc1f41-722d-406f-af20-ec25074f3e34",
+      "name": "Nyando",
+      "code": "",
+      "latitude": "-0.210200",
+      "longitude": "34.867100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "aa7c41de-cab6-4a51-b840-fb7b06377c56",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.874Z",
+      "updated_date": "2023-10-05T08:41:47.874Z",
+      "county": "76e2943a-2ed9-4eb9-a78f-93445ffc50ef",
+      "name": "Ol Jorok",
+      "code": "",
+      "latitude": "-0.142600",
+      "longitude": "36.311300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "aae7e0fd-f934-4b18-958e-3edce4818e69",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.261Z",
+      "updated_date": "2023-10-05T08:41:47.261Z",
+      "county": "157e62fa-3948-454e-81ba-68c3e47933e2",
+      "name": "Baringo North",
+      "code": "",
+      "latitude": "0.753300",
+      "longitude": "35.794700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ab8ddbe3-bf9d-4620-aee3-f505b84d132b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.128Z",
+      "updated_date": "2023-10-05T08:41:47.128Z",
+      "county": "2848a253-ad94-4b00-af94-ddf93182b47e",
+      "name": "Garsen",
+      "code": "",
+      "latitude": "-2.335700",
+      "longitude": "39.509900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ad71e397-a6dc-4c4e-961d-1d145145a112",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.914Z",
+      "updated_date": "2023-10-05T08:41:47.914Z",
+      "county": "e076b8d6-80d5-4da8-9d58-ba0f7ef99c65",
+      "name": "Nithi",
+      "code": "",
+      "latitude": "-0.337400",
+      "longitude": "37.672200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "adafe28c-094f-4f5c-b503-70ad549841ce",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.479Z",
+      "updated_date": "2023-10-05T08:41:47.479Z",
+      "county": "81561f21-46b0-40e6-91b0-8e8fec8babc1",
+      "name": "Kajiado East",
+      "code": "",
+      "latitude": "-1.947400",
+      "longitude": "37.189300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "aea02178-4cca-4c94-a0fa-00b1d901f3eb",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.635Z",
+      "updated_date": "2023-10-05T08:41:47.635Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Makadara",
+      "code": "",
+      "latitude": "-1.295300",
+      "longitude": "36.868000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "aec352a7-c571-4ee3-9a8d-cc81c2d4bf9c",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.226Z",
+      "updated_date": "2023-10-05T08:41:47.226Z",
+      "county": "06b66695-213f-4553-9de0-6a4b32cea87e",
+      "name": "Budalangi",
+      "code": "",
+      "latitude": "0.079000",
+      "longitude": "33.995800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "af1053c0-a8d6-461b-8ed5-43cbab01173b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.362Z",
+      "updated_date": "2023-10-05T08:41:47.362Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Kilimani",
+      "code": "",
+      "latitude": "-1.278800",
+      "longitude": "36.779400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b07ce9c1-a8d9-4ee9-853d-fcb1a673ce12",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.771Z",
+      "updated_date": "2023-10-05T08:41:47.771Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "South Imenti",
+      "code": "",
+      "latitude": "-0.123600",
+      "longitude": "37.607800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b18a1b92-d867-4ddc-9600-ae301a22eb66",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.973Z",
+      "updated_date": "2023-10-05T08:41:47.973Z",
+      "county": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+      "name": "Mwingi East",
+      "code": "",
+      "latitude": "-0.917400",
+      "longitude": "38.466700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b1afc99c-2669-4031-9c98-332e2bca15eb",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.540Z",
+      "updated_date": "2023-10-05T08:41:47.540Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Mt. Elgon",
+      "code": "",
+      "latitude": "0.928400",
+      "longitude": "34.596800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b1c61659-d457-4251-b70a-98628558351a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.649Z",
+      "updated_date": "2023-10-05T08:41:47.649Z",
+      "county": "f763bfa0-cb72-4362-b600-c64744080310",
+      "name": "Lunga Lunga",
+      "code": "",
+      "latitude": "-4.423400",
+      "longitude": "39.078800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b223b628-aeb7-4101-98b3-48bf4f6ff5da",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.619Z",
+      "updated_date": "2023-10-05T08:41:47.619Z",
+      "county": "cb7efa54-aa37-4863-990b-557a133f0473",
+      "name": "Mandera North",
+      "code": "",
+      "latitude": "3.653600",
+      "longitude": "40.752900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b2b747ee-71b7-4877-a653-6f6d6de4b5fc",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.786Z",
+      "updated_date": "2023-10-05T08:41:47.786Z",
+      "county": "d2b1bbe8-dc9e-47be-99eb-20b8637476fb",
+      "name": "Sigowet/soin",
+      "code": "",
+      "latitude": "-0.298800",
+      "longitude": "35.113100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b38c33e7-d3e8-4d3f-a0fd-a374472a1f81",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.299Z",
+      "updated_date": "2023-10-05T08:41:47.299Z",
+      "county": "c2d403a4-21c3-4d4f-9aac-f5b7c47f0611",
+      "name": "Ainabkoi",
+      "code": "",
+      "latitude": "0.321100",
+      "longitude": "35.454200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b407b682-b4bf-4a78-a3f5-abfbb82f1273",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.472Z",
+      "updated_date": "2023-10-05T08:41:47.472Z",
+      "county": "81561f21-46b0-40e6-91b0-8e8fec8babc1",
+      "name": "Kajiado South",
+      "code": "",
+      "latitude": "-2.656500",
+      "longitude": "37.470100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b6116b4a-98a9-4b73-8fad-ad00f0b8d9de",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.290Z",
+      "updated_date": "2023-10-05T08:41:47.290Z",
+      "county": "7123cc00-f512-44b4-bdd8-03ddde82854e",
+      "name": "Alego Usonga",
+      "code": "",
+      "latitude": "0.064200",
+      "longitude": "34.232100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b66a3800-0e2c-48b4-9130-be087f687415",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.692Z",
+      "updated_date": "2023-10-05T08:41:47.692Z",
+      "county": "94594639-0610-42b9-8126-2577de152394",
+      "name": "Laikipia West",
+      "code": "",
+      "latitude": "-0.047200",
+      "longitude": "36.838700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b6e3d7f7-2c58-41f4-b630-dfb6f73fc3b3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.871Z",
+      "updated_date": "2023-10-05T08:41:47.871Z",
+      "county": "76e2943a-2ed9-4eb9-a78f-93445ffc50ef",
+      "name": "Ol Kalou",
+      "code": "",
+      "latitude": "-0.298800",
+      "longitude": "36.363200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b6f909fb-8465-4b8e-bc12-755c717ece55",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.081Z",
+      "updated_date": "2023-10-05T08:41:48.081Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "Tigania East",
+      "code": "",
+      "latitude": "0.278700",
+      "longitude": "37.770700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b7a1a4f1-ff4a-489d-8c1b-b3c055f97981",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.143Z",
+      "updated_date": "2023-10-05T08:41:47.143Z",
+      "county": "857d2488-8c97-4940-b560-9dd23ee99eea",
+      "name": "Fafi",
+      "code": "",
+      "latitude": "-0.746000",
+      "longitude": "40.407800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b7b302fb-17fa-493a-a41e-59d129475c96",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.132Z",
+      "updated_date": "2023-10-05T08:41:47.132Z",
+      "county": "0a6bc0bb-bb3c-4bb7-ac15-53e3ebabb429",
+      "name": "Ganze",
+      "code": "",
+      "latitude": "-3.452700",
+      "longitude": "39.510300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b7f453fa-ec0d-47b5-aed2-84e31a09d750",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.993Z",
+      "updated_date": "2023-10-05T08:41:47.993Z",
+      "county": "3531d606-bfb9-4436-9f92-a8cb2fc5868d",
+      "name": "Wundanyi",
+      "code": "",
+      "latitude": "-3.284800",
+      "longitude": "38.282600",
+      "status": true,
+      "zoom_level": 9.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b8c9d69d-9198-49e9-9313-621906171930",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.213Z",
+      "updated_date": "2023-10-05T08:41:47.213Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Butere",
+      "code": "",
+      "latitude": "0.222300",
+      "longitude": "34.523400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "b9e6a74c-8d1d-4f6c-a87c-c3fed5328ecc",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.967Z",
+      "updated_date": "2023-10-05T08:41:47.967Z",
+      "county": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+      "name": "Mwingi West",
+      "code": "",
+      "latitude": "-0.980300",
+      "longitude": "37.975900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ba9b062e-6720-44ff-a870-4c78f38f6c4c",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.982Z",
+      "updated_date": "2023-10-05T08:41:47.982Z",
+      "county": "3531d606-bfb9-4436-9f92-a8cb2fc5868d",
+      "name": "Mwatate",
+      "code": "",
+      "latitude": "-3.773000",
+      "longitude": "38.408200",
+      "status": true,
+      "zoom_level": 9.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "bb20bb01-6808-4020-8240-f03614b6a47d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.512Z",
+      "updated_date": "2023-10-05T08:41:47.512Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Ikolomani",
+      "code": "",
+      "latitude": "0.190500",
+      "longitude": "34.708200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "bd0c9909-4742-4378-809d-aeb57fbcb1cb",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.918Z",
+      "updated_date": "2023-10-05T08:41:47.918Z",
+      "county": "d1086504-5421-4910-a954-4a4a2699da92",
+      "name": "Ndia",
+      "code": "",
+      "latitude": "-0.593800",
+      "longitude": "37.229900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "bd4d90e1-da79-4b48-a409-c89b00834e3b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.671Z",
+      "updated_date": "2023-10-05T08:41:47.671Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Lari",
+      "code": "",
+      "latitude": "-0.944500",
+      "longitude": "36.666800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "befb4632-5c2d-468c-a1d8-bf5c75d8870a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.529Z",
+      "updated_date": "2023-10-05T08:41:47.529Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Mumias West",
+      "code": "",
+      "latitude": "0.276900",
+      "longitude": "34.443600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c006b501-cc75-40db-88b5-c501cf098721",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.149Z",
+      "updated_date": "2023-10-05T08:41:47.149Z",
+      "county": "333d147a-bd91-4bde-8c61-4caa051822db",
+      "name": "Emurua Dikirr",
+      "code": "",
+      "latitude": "-0.996600",
+      "longitude": "35.088700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c084eaf6-66f2-4832-8783-090bfeb6ae16",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.959Z",
+      "updated_date": "2023-10-05T08:41:47.959Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Nakuru Town East",
+      "code": "",
+      "latitude": "-0.363300",
+      "longitude": "36.117300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c093f5a4-5080-4edc-b97a-8bc5d17a0c59",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.253Z",
+      "updated_date": "2023-10-05T08:41:47.253Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "Bobasi",
+      "code": "",
+      "latitude": "-0.830700",
+      "longitude": "34.808500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c09f16e7-2ad0-4ca7-9836-3a6367a11217",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.565Z",
+      "updated_date": "2023-10-05T08:41:47.565Z",
+      "county": "32c9f409-df30-40b0-a971-013fdf68ece9",
+      "name": "Matungulu",
+      "code": "",
+      "latitude": "-1.207500",
+      "longitude": "37.248400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c0cc5a73-dba5-4a86-8c53-22dae1105539",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.206Z",
+      "updated_date": "2023-10-05T08:41:47.206Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "Buuri",
+      "code": "",
+      "latitude": "0.095000",
+      "longitude": "37.381700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c29dc084-8d0d-41de-8bba-784aef5454a4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.138Z",
+      "updated_date": "2023-10-05T08:41:47.138Z",
+      "county": "0f54504a-f014-438a-b078-d68d262e11b8",
+      "name": "Gachoka",
+      "code": "",
+      "latitude": "-0.743300",
+      "longitude": "37.609200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c2d6f405-17a3-4a93-994c-08d517be0403",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.723Z",
+      "updated_date": "2023-10-05T08:41:47.723Z",
+      "county": "883cfd98-6eaa-466c-8d45-1819acded358",
+      "name": "Konoin",
+      "code": "",
+      "latitude": "-0.536400",
+      "longitude": "35.368500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c314a62a-12b4-4463-b735-edfb7d02cfb3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.122Z",
+      "updated_date": "2023-10-05T08:41:47.122Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Gatundu North",
+      "code": "",
+      "latitude": "-0.906500",
+      "longitude": "36.828800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c3f9b80d-af25-4943-8c89-0d1151f1f270",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48Z",
+      "updated_date": "2023-10-05T08:41:48Z",
+      "county": "219ab201-858d-4b96-9e1c-429d7d03a20d",
+      "name": "West Mugirango",
+      "code": "",
+      "latitude": "-0.583400",
+      "longitude": "34.929500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c4479fc4-36c2-4426-834b-e7a2f947dc33",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.141Z",
+      "updated_date": "2023-10-05T08:41:47.141Z",
+      "county": "06b66695-213f-4553-9de0-6a4b32cea87e",
+      "name": "Funyula",
+      "code": "",
+      "latitude": "0.246800",
+      "longitude": "34.077200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c52a2b5c-32a4-4c67-810d-01cb82d763ee",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.903Z",
+      "updated_date": "2023-10-05T08:41:47.903Z",
+      "county": "219ab201-858d-4b96-9e1c-429d7d03a20d",
+      "name": "North Mugirango",
+      "code": "",
+      "latitude": "-0.501300",
+      "longitude": "34.992700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c5770476-f480-46fe-a8ab-0dd6f48bfb76",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.791Z",
+      "updated_date": "2023-10-05T08:41:47.791Z",
+      "county": "0f54504a-f014-438a-b078-d68d262e11b8",
+      "name": "Siakago",
+      "code": "",
+      "latitude": "-0.539400",
+      "longitude": "37.767500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c62b34eb-34ce-492b-b90f-543d1e5bd9d9",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.175Z",
+      "updated_date": "2023-10-05T08:41:47.175Z",
+      "county": "157e62fa-3948-454e-81ba-68c3e47933e2",
+      "name": "Eldama Ravine",
+      "code": "",
+      "latitude": "0.023300",
+      "longitude": "35.715300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c6dbb05f-d411-4990-b5c7-efec18b081f5",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.392Z",
+      "updated_date": "2023-10-05T08:41:47.392Z",
+      "county": "26efb81f-856b-424b-ae0b-56c9d7f30cde",
+      "name": "Kibwezi West",
+      "code": "",
+      "latitude": "-2.309000",
+      "longitude": "37.866400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c7d9a269-6b0e-4b26-ad2b-de2fccd26eab",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.574Z",
+      "updated_date": "2023-10-05T08:41:47.574Z",
+      "county": "463d605f-bf25-4156-b2f0-5ce133795c04",
+      "name": "Mathira",
+      "code": "",
+      "latitude": "-0.390300",
+      "longitude": "37.147900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c7ed51ea-da79-484b-b3f0-476ef28571f0",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.854Z",
+      "updated_date": "2023-10-05T08:41:47.854Z",
+      "county": "435fa551-3576-4da7-949f-21f76939ae6c",
+      "name": "Pokot South",
+      "code": "",
+      "latitude": "1.339000",
+      "longitude": "35.294600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c8c25df3-dee3-415a-b7d1-ec40fe907b5e",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.197Z",
+      "updated_date": "2023-10-05T08:41:47.197Z",
+      "county": "883cfd98-6eaa-466c-8d45-1819acded358",
+      "name": "Chepalungu",
+      "code": "",
+      "latitude": "-0.896400",
+      "longitude": "35.251900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c9073546-8973-407f-ba3d-f7ee6bd5af40",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.178Z",
+      "updated_date": "2023-10-05T08:41:47.178Z",
+      "county": "857d2488-8c97-4940-b560-9dd23ee99eea",
+      "name": "Dujis",
+      "code": "",
+      "latitude": "-0.439600",
+      "longitude": "39.779200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c947eb78-62ac-4441-83ed-5bf0ec9e46ca",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.796Z",
+      "updated_date": "2023-10-05T08:41:47.796Z",
+      "county": "14cc1f41-722d-406f-af20-ec25074f3e34",
+      "name": "Seme",
+      "code": "",
+      "latitude": "-0.146400",
+      "longitude": "34.516900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "c9dd7d38-e316-4b6e-81c2-ac5eb1f49f84",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.209Z",
+      "updated_date": "2023-10-05T08:41:47.209Z",
+      "county": "06b66695-213f-4553-9de0-6a4b32cea87e",
+      "name": "Butula",
+      "code": "",
+      "latitude": "0.351600",
+      "longitude": "34.294700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "cd36a058-b017-4ae6-9e67-2cee4a8203d2",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.373Z",
+      "updated_date": "2023-10-05T08:41:47.373Z",
+      "county": "333d147a-bd91-4bde-8c61-4caa051822db",
+      "name": "Kilgoris",
+      "code": "",
+      "latitude": "-1.181700",
+      "longitude": "34.874200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "cddcccd1-3e01-4914-b871-a33292b887cf",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.055Z",
+      "updated_date": "2023-10-05T08:41:48.055Z",
+      "county": "8306f91c-d3b9-4706-bd1e-f60baf0208f8",
+      "name": "Turkana South",
+      "code": "",
+      "latitude": "2.380800",
+      "longitude": "35.699900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ce26f68e-0c33-44dc-98f7-e3ee282bb98a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.654Z",
+      "updated_date": "2023-10-05T08:41:47.654Z",
+      "county": "49611c03-83fb-42b6-8b71-12fbe7f34cf4",
+      "name": "Luanda",
+      "code": "",
+      "latitude": "0.024000",
+      "longitude": "34.600100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ce5a3426-4448-4a94-9c65-a52b317e8342",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.501Z",
+      "updated_date": "2023-10-05T08:41:47.501Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Juja",
+      "code": "",
+      "latitude": "-1.112800",
+      "longitude": "37.017600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "cf88c1c0-3abf-46be-a7be-ab9cf224fc3f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.302Z",
+      "updated_date": "2023-10-05T08:41:47.302Z",
+      "county": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+      "name": "Kitui West",
+      "code": "",
+      "latitude": "-1.232300",
+      "longitude": "37.904400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "cf9969a4-754d-4edc-9c4e-86ff71b52327",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.489Z",
+      "updated_date": "2023-10-05T08:41:47.489Z",
+      "county": "435fa551-3576-4da7-949f-21f76939ae6c",
+      "name": "Kacheliba",
+      "code": "",
+      "latitude": "2.056500",
+      "longitude": "35.112100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d2ddf418-5de7-42cb-9ef8-3a4bcccbf300",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.160Z",
+      "updated_date": "2023-10-05T08:41:47.160Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Embakasi South",
+      "code": "",
+      "latitude": "-1.329000",
+      "longitude": "36.877500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d2e1a0f9-8730-4029-b20b-d6fc22ee45d4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.092Z",
+      "updated_date": "2023-10-05T08:41:48.092Z",
+      "county": "e076b8d6-80d5-4da8-9d58-ba0f7ef99c65",
+      "name": "Tharaka",
+      "code": "",
+      "latitude": "-0.141000",
+      "longitude": "38.030800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d3863f1c-9609-4efa-b90c-7eb2724cd888",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.269Z",
+      "updated_date": "2023-10-05T08:41:47.269Z",
+      "county": "cb7efa54-aa37-4863-990b-557a133f0473",
+      "name": "Banissa",
+      "code": "",
+      "latitude": "3.996500",
+      "longitude": "40.470500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d3885857-2337-4acc-b4e4-db912aeabd78",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.071Z",
+      "updated_date": "2023-10-05T08:41:48.071Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Tongaren",
+      "code": "",
+      "latitude": "0.782700",
+      "longitude": "34.927100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d4580985-f0b2-498e-b1a9-8a0582919ce1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.813Z",
+      "updated_date": "2023-10-05T08:41:47.813Z",
+      "county": "49611c03-83fb-42b6-8b71-12fbe7f34cf4",
+      "name": "Sabatia",
+      "code": "",
+      "latitude": "0.114800",
+      "longitude": "34.755300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d4e3903b-950d-4f0e-937c-c300f789ef0c",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.096Z",
+      "updated_date": "2023-10-05T08:41:48.096Z",
+      "county": "463d605f-bf25-4156-b2f0-5ce133795c04",
+      "name": "Tetu",
+      "code": "",
+      "latitude": "-0.457600",
+      "longitude": "36.830100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d5368aa4-a409-4372-a959-c15da838e2d2",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.743Z",
+      "updated_date": "2023-10-05T08:41:47.743Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Starehe",
+      "code": "",
+      "latitude": "-1.290200",
+      "longitude": "36.834700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d5758723-dc6b-4dcb-b76e-ca3301d91ef9",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.710Z",
+      "updated_date": "2023-10-05T08:41:47.710Z",
+      "county": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+      "name": "Kuria West",
+      "code": "",
+      "latitude": "-1.193100",
+      "longitude": "34.513700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d6a0b8d1-a5e5-4efb-b846-8c60ef6c6968",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.077Z",
+      "updated_date": "2023-10-05T08:41:48.077Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "Tigania West",
+      "code": "",
+      "latitude": "0.189300",
+      "longitude": "37.720800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d6ae6c3b-6de2-4fb8-a0e3-652469658fa3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.847Z",
+      "updated_date": "2023-10-05T08:41:47.847Z",
+      "county": "17f9402d-2457-4e97-b2f8-b49ed2c91db1",
+      "name": "Rangwe",
+      "code": "",
+      "latitude": "-0.540500",
+      "longitude": "34.568200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d745e459-dac5-4798-afc8-ad3f7b215de3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.520Z",
+      "updated_date": "2023-10-05T08:41:47.520Z",
+      "county": "857d2488-8c97-4940-b560-9dd23ee99eea",
+      "name": "Ijara",
+      "code": "",
+      "latitude": "-1.519600",
+      "longitude": "40.822000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d78defae-b94e-45da-9681-b7ac237854d8",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.622Z",
+      "updated_date": "2023-10-05T08:41:47.622Z",
+      "county": "cb7efa54-aa37-4863-990b-557a133f0473",
+      "name": "Mandera East",
+      "code": "",
+      "latitude": "3.739400",
+      "longitude": "41.536100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d7e0410d-a6ad-4051-9016-cd94a2f336d4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.882Z",
+      "updated_date": "2023-10-05T08:41:47.882Z",
+      "county": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+      "name": "Nyatike",
+      "code": "",
+      "latitude": "-0.920600",
+      "longitude": "34.139600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d8264e98-da7f-4a7d-a8ca-bab76e8cf4ca",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.295Z",
+      "updated_date": "2023-10-05T08:41:47.295Z",
+      "county": "d2b1bbe8-dc9e-47be-99eb-20b8637476fb",
+      "name": "Ainamoi",
+      "code": "",
+      "latitude": "-0.303000",
+      "longitude": "35.276600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "d9fc8950-16ef-44cb-907f-a532b0c6bad6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.809Z",
+      "updated_date": "2023-10-05T08:41:47.809Z",
+      "county": "b347918d-2305-435a-bb4f-20b63c0ce59d",
+      "name": "Saboti",
+      "code": "",
+      "latitude": "0.973800",
+      "longitude": "34.845400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "dafbaf32-7af5-45be-a5c2-97dea3a8062d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.963Z",
+      "updated_date": "2023-10-05T08:41:47.963Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Naivasha",
+      "code": "",
+      "latitude": "-0.867900",
+      "longitude": "36.392600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "db01ddcf-9252-4d22-a69b-d1f0a5ac6e65",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.009Z",
+      "updated_date": "2023-10-05T08:41:48.009Z",
+      "county": "12b9e163-0152-45db-8c40-effd8bbc9c8f",
+      "name": "Wajir West",
+      "code": "",
+      "latitude": "1.693700",
+      "longitude": "39.542500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "db08924a-3a13-451b-bf4a-c696350d4fe5",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.640Z",
+      "updated_date": "2023-10-05T08:41:47.640Z",
+      "county": "32c9f409-df30-40b0-a971-013fdf68ece9",
+      "name": "Machakos Town",
+      "code": "",
+      "latitude": "-1.588500",
+      "longitude": "37.225100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "db68226c-cfe3-434c-870e-7d42c16c0208",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.434Z",
+      "updated_date": "2023-10-05T08:41:47.434Z",
+      "county": "c2d403a4-21c3-4d4f-9aac-f5b7c47f0611",
+      "name": "Kapseret",
+      "code": "",
+      "latitude": "0.424900",
+      "longitude": "35.240000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "dd7d559c-59ec-47be-98fc-3cb76e27cedf",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.085Z",
+      "updated_date": "2023-10-05T08:41:48.085Z",
+      "county": "157e62fa-3948-454e-81ba-68c3e47933e2",
+      "name": "Tiaty",
+      "code": "",
+      "latitude": "1.051300",
+      "longitude": "36.018900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "dd985e30-0352-455b-a8fb-7946406e8f6c",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.782Z",
+      "updated_date": "2023-10-05T08:41:47.782Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Sirisia",
+      "code": "",
+      "latitude": "0.746500",
+      "longitude": "34.474500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ddf154f5-8dbd-4efb-9461-33569eb81da1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.105Z",
+      "updated_date": "2023-10-05T08:41:47.105Z",
+      "county": "d1086504-5421-4910-a954-4a4a2699da92",
+      "name": "Gichugu",
+      "code": "",
+      "latitude": "-0.400900",
+      "longitude": "37.347400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "de0d0560-8633-4d3f-aca4-b20ffc297c07",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.272Z",
+      "updated_date": "2023-10-05T08:41:47.272Z",
+      "county": "857d2488-8c97-4940-b560-9dd23ee99eea",
+      "name": "Balambala",
+      "code": "",
+      "latitude": "0.035700",
+      "longitude": "39.293000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "de47a811-f8d5-4e23-8eb4-9dce9b814c52",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.057Z",
+      "updated_date": "2023-10-05T08:41:48.057Z",
+      "county": "8306f91c-d3b9-4706-bd1e-f60baf0208f8",
+      "name": "Turkana North",
+      "code": "",
+      "latitude": "4.456200",
+      "longitude": "35.482400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ded9154f-4ebd-4561-b007-611d1b00b990",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.339Z",
+      "updated_date": "2023-10-05T08:41:47.339Z",
+      "county": "76e2943a-2ed9-4eb9-a78f-93445ffc50ef",
+      "name": "Kipipiri",
+      "code": "",
+      "latitude": "-0.430100",
+      "longitude": "36.522900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "dffe0229-9ef9-458b-a89f-966d18519f16",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.111Z",
+      "updated_date": "2023-10-05T08:41:48.111Z",
+      "county": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+      "name": "Suna West",
+      "code": "",
+      "latitude": "-1.089900",
+      "longitude": "34.359000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e0ff60ff-c954-4dbe-9151-b65825c9927f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.896Z",
+      "updated_date": "2023-10-05T08:41:47.896Z",
+      "county": "7ea44195-5930-4be7-b564-00e09a2924ff",
+      "name": "Nyali",
+      "code": "",
+      "latitude": "-4.028600",
+      "longitude": "39.702100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e1a46b55-fbb1-4ca1-9dca-595ef9e9a7c4",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.100Z",
+      "updated_date": "2023-10-05T08:41:47.100Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Githunguri",
+      "code": "",
+      "latitude": "-1.067700",
+      "longitude": "36.794300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e1ab3736-cf1f-45da-a945-52ae568311d6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.236Z",
+      "updated_date": "2023-10-05T08:41:47.236Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "Bonchari",
+      "code": "",
+      "latitude": "-0.664600",
+      "longitude": "34.689800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e1cb2640-b177-44ee-85d6-17c16e43ebb5",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.645Z",
+      "updated_date": "2023-10-05T08:41:47.645Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Lurambi",
+      "code": "",
+      "latitude": "0.283000",
+      "longitude": "34.703700",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e275d5c9-60ae-423b-bb0a-420407ffc893",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.584Z",
+      "updated_date": "2023-10-05T08:41:47.584Z",
+      "county": "06b66695-213f-4553-9de0-6a4b32cea87e",
+      "name": "Matayos",
+      "code": "",
+      "latitude": "0.405000",
+      "longitude": "34.168000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e3e5b113-fe85-40b7-86e7-76d3aad2849b",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.970Z",
+      "updated_date": "2023-10-05T08:41:47.970Z",
+      "county": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+      "name": "Mwingi North",
+      "code": "",
+      "latitude": "-0.461400",
+      "longitude": "38.299200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e4024de6-86d9-4a66-838c-971b743f0321",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.039Z",
+      "updated_date": "2023-10-05T08:41:48.039Z",
+      "county": "49611c03-83fb-42b6-8b71-12fbe7f34cf4",
+      "name": "Vihiga",
+      "code": "",
+      "latitude": "0.035200",
+      "longitude": "34.692200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e4201786-34bd-4647-b117-a21f3b76e547",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.310Z",
+      "updated_date": "2023-10-05T08:41:47.310Z",
+      "county": "4269c8d6-1b47-4227-b7c1-a2c50dd981ea",
+      "name": "Kitui East",
+      "code": "",
+      "latitude": "-1.370400",
+      "longitude": "38.506000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e43cb964-7bd5-4cc8-bdf5-7dbbebbef35d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.535Z",
+      "updated_date": "2023-10-05T08:41:47.535Z",
+      "county": "463d605f-bf25-4156-b2f0-5ce133795c04",
+      "name": "Mukurweni",
+      "code": "",
+      "latitude": "-0.575800",
+      "longitude": "37.083000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e482cc9e-26bf-4e6f-b5d2-40d540d2faea",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.336Z",
+      "updated_date": "2023-10-05T08:41:47.336Z",
+      "county": "d2b1bbe8-dc9e-47be-99eb-20b8637476fb",
+      "name": "Kipkelion East",
+      "code": "",
+      "latitude": "-0.169400",
+      "longitude": "35.513200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e5acb020-01da-4d43-9281-27168e3dbe8c",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.609Z",
+      "updated_date": "2023-10-05T08:41:47.609Z",
+      "county": "0f54504a-f014-438a-b078-d68d262e11b8",
+      "name": "Manyatta",
+      "code": "",
+      "latitude": "-0.415000",
+      "longitude": "37.454600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e920ce2b-ee17-4e8f-b10f-b0afcf228a01",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.370Z",
+      "updated_date": "2023-10-05T08:41:47.370Z",
+      "county": "0a6bc0bb-bb3c-4bb7-ac15-53e3ebabb429",
+      "name": "Kilifi North",
+      "code": "",
+      "latitude": "-3.461000",
+      "longitude": "39.888800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e984a2d9-794b-47e8-ba5c-2de09726a432",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.381Z",
+      "updated_date": "2023-10-05T08:41:47.381Z",
+      "county": "5b502eb0-d4f4-47d2-8a0f-f118e31a82e9",
+      "name": "Kiharu",
+      "code": "",
+      "latitude": "-0.722000",
+      "longitude": "37.122100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "e9b73075-a143-4fd3-a04e-d75d9f846a0d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.287Z",
+      "updated_date": "2023-10-05T08:41:47.287Z",
+      "county": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+      "name": "Awendo",
+      "code": "",
+      "latitude": "-0.869800",
+      "longitude": "34.541900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "eb0184a8-b9e5-4969-affc-1324a34c0341",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.523Z",
+      "updated_date": "2023-10-05T08:41:47.523Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "Igembe South",
+      "code": "",
+      "latitude": "0.094100",
+      "longitude": "38.143000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "eb8ee243-c1b5-4e92-ac01-038d6283bb2d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.827Z",
+      "updated_date": "2023-10-05T08:41:47.827Z",
+      "county": "c78d5381-d387-4d67-a8a4-fc95a8c5afa4",
+      "name": "Ruaraka",
+      "code": "",
+      "latitude": "-1.244000",
+      "longitude": "36.879100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ec375ae7-959d-4fc0-ab9f-d0bb554603d1",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.698Z",
+      "updated_date": "2023-10-05T08:41:47.698Z",
+      "county": "94594639-0610-42b9-8126-2577de152394",
+      "name": "Laikipia East",
+      "code": "",
+      "latitude": "0.338200",
+      "longitude": "36.488100",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ecc749c5-9e02-4c4a-9147-8e38586983e5",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.789Z",
+      "updated_date": "2023-10-05T08:41:47.789Z",
+      "county": "435fa551-3576-4da7-949f-21f76939ae6c",
+      "name": "Sigor",
+      "code": "",
+      "latitude": "1.563400",
+      "longitude": "35.544800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ee802d0b-eb5b-4dce-91ce-a845f19e733e",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.736Z",
+      "updated_date": "2023-10-05T08:41:47.736Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Subukia",
+      "code": "",
+      "latitude": "-0.016000",
+      "longitude": "36.178800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "efd54989-38b8-435d-9407-c15980da27a8",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.397Z",
+      "updated_date": "2023-10-05T08:41:47.397Z",
+      "county": "26efb81f-856b-424b-ae0b-56c9d7f30cde",
+      "name": "Kibwezi East",
+      "code": "",
+      "latitude": "-2.614200",
+      "longitude": "38.149300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f0514871-3b1b-4731-8d75-7bf23dfd6d55",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.663Z",
+      "updated_date": "2023-10-05T08:41:47.663Z",
+      "county": "e695a420-9ee3-477e-a12e-bcb74287886c",
+      "name": "Likuyani",
+      "code": "",
+      "latitude": "0.763800",
+      "longitude": "35.090000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f0d09041-fa5f-4d03-9980-590ca46424b0",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.720Z",
+      "updated_date": "2023-10-05T08:41:47.720Z",
+      "county": "f3ebc8a3-9ccd-445f-b975-9f1b41701d96",
+      "name": "Kuresoi North",
+      "code": "",
+      "latitude": "-0.290900",
+      "longitude": "35.600200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f0f0a0c3-a4b2-42f4-8727-7409e12ec011",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.266Z",
+      "updated_date": "2023-10-05T08:41:47.266Z",
+      "county": "157e62fa-3948-454e-81ba-68c3e47933e2",
+      "name": "Baringo Central",
+      "code": "",
+      "latitude": "0.433300",
+      "longitude": "35.749400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f169b213-cb85-4e89-8621-e318fb3acc8d",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.103Z",
+      "updated_date": "2023-10-05T08:41:48.103Z",
+      "county": "06b66695-213f-4553-9de0-6a4b32cea87e",
+      "name": "Teso North",
+      "code": "",
+      "latitude": "0.679800",
+      "longitude": "34.341500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f1b3ff2f-51c4-456f-b9b2-e8196df09ec3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.576Z",
+      "updated_date": "2023-10-05T08:41:47.576Z",
+      "county": "5b502eb0-d4f4-47d2-8a0f-f118e31a82e9",
+      "name": "Mathioya",
+      "code": "",
+      "latitude": "-0.622000",
+      "longitude": "36.936500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f257c8d3-00ea-47dc-827f-878c86196d59",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.100Z",
+      "updated_date": "2023-10-05T08:41:48.100Z",
+      "county": "06b66695-213f-4553-9de0-6a4b32cea87e",
+      "name": "Teso South",
+      "code": "",
+      "latitude": "0.541500",
+      "longitude": "34.218400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f27c5314-efde-4893-87b4-2a052b74b2bd",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.293Z",
+      "updated_date": "2023-10-05T08:41:47.293Z",
+      "county": "5da064a5-c434-4f10-a39a-764a98e9698d",
+      "name": "Aldai",
+      "code": "",
+      "latitude": "0.048700",
+      "longitude": "34.959000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f30a6cdd-c50e-4fb6-9002-ea9655ea6d46",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.453Z",
+      "updated_date": "2023-10-05T08:41:47.453Z",
+      "county": "5b502eb0-d4f4-47d2-8a0f-f118e31a82e9",
+      "name": "Kangema",
+      "code": "",
+      "latitude": "-0.682000",
+      "longitude": "36.874000",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f3e9504c-4ffb-42c0-84a3-8b6649a675a8",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.837Z",
+      "updated_date": "2023-10-05T08:41:47.837Z",
+      "county": "0e38e29f-1594-4671-b089-b8d85a3f7df1",
+      "name": "Rongo",
+      "code": "",
+      "latitude": "-0.773500",
+      "longitude": "34.595400",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f40f01b9-7cd7-4c7d-8ceb-afaec936c46a",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.954Z",
+      "updated_date": "2023-10-05T08:41:47.954Z",
+      "county": "06b66695-213f-4553-9de0-6a4b32cea87e",
+      "name": "Nambale",
+      "code": "",
+      "latitude": "0.484800",
+      "longitude": "34.313800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f47b65bc-26ee-4e1b-8387-beb9a539426e",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.006Z",
+      "updated_date": "2023-10-05T08:41:48.006Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Webuye East",
+      "code": "",
+      "latitude": "0.661400",
+      "longitude": "34.786300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f58b28a2-9d4d-4f92-b213-e844ddb5f8e0",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.466Z",
+      "updated_date": "2023-10-05T08:41:47.466Z",
+      "county": "0a6bc0bb-bb3c-4bb7-ac15-53e3ebabb429",
+      "name": "Kaloleni",
+      "code": "",
+      "latitude": "-3.756300",
+      "longitude": "39.513800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f61c489f-a4bf-4a9c-8f4e-489751d867d3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.733Z",
+      "updated_date": "2023-10-05T08:41:47.733Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "Kitutu Chache North",
+      "code": "",
+      "latitude": "-0.564700",
+      "longitude": "34.819900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f6d2dff9-a618-45d3-b115-7446d7441f45",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.223Z",
+      "updated_date": "2023-10-05T08:41:47.223Z",
+      "county": "f4a4a696-d14d-4e23-a5b9-1e9ad7fd18cb",
+      "name": "Bumula",
+      "code": "",
+      "latitude": "0.566000",
+      "longitude": "34.456200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f7547b14-6b9c-4fc9-a83a-60aef1e034f3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.660Z",
+      "updated_date": "2023-10-05T08:41:47.660Z",
+      "county": "e333ac26-4a02-4f5d-8ec4-8e28cab714d6",
+      "name": "Limuru",
+      "code": "",
+      "latitude": "-1.141800",
+      "longitude": "36.625200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f7e6a40d-215d-4a8d-8f4a-6781b6a7e13f",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.086Z",
+      "updated_date": "2023-10-05T08:41:47.086Z",
+      "county": "85f2d613-dcb8-433e-9218-df003de8c0ca",
+      "name": "Igembe North",
+      "code": "",
+      "latitude": "0.466700",
+      "longitude": "37.987800",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "f99ee61d-ae4d-49b2-b2bb-65ec1902ecbc",
+    "fields": {
+      "created_date": "2023-10-05T08:41:48.074Z",
+      "updated_date": "2023-10-05T08:41:48.074Z",
+      "county": "5da064a5-c434-4f10-a39a-764a98e9698d",
+      "name": "Tinderet",
+      "code": "",
+      "latitude": "-0.010800",
+      "longitude": "35.241500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "faedc0b7-c6da-4f6c-b145-f0ee4c39c561",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.704Z",
+      "updated_date": "2023-10-05T08:41:47.704Z",
+      "county": "cb7efa54-aa37-4863-990b-557a133f0473",
+      "name": "Lafey",
+      "code": "",
+      "latitude": "3.413900",
+      "longitude": "41.179600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "fc1f6306-44e9-4359-8f50-a198f4f949f6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.258Z",
+      "updated_date": "2023-10-05T08:41:47.258Z",
+      "county": "157e62fa-3948-454e-81ba-68c3e47933e2",
+      "name": "Baringo South",
+      "code": "",
+      "latitude": "0.471600",
+      "longitude": "36.066500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "fce25793-bf9e-45f8-a8f3-9abc6dc872e6",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.750Z",
+      "updated_date": "2023-10-05T08:41:47.750Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "South Mugirango",
+      "code": "",
+      "latitude": "-0.849700",
+      "longitude": "34.655900",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "fda6c1bf-c6be-45a1-9959-3545426b9acb",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.245Z",
+      "updated_date": "2023-10-05T08:41:47.245Z",
+      "county": "9298e7ba-aafa-43c8-9c3f-13851c0e155a",
+      "name": "Bomachoge Chache",
+      "code": "",
+      "latitude": "-0.810100",
+      "longitude": "34.709200",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ff0a7629-f6c3-448f-a146-4f546226adba",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.990Z",
+      "updated_date": "2023-10-05T08:41:47.990Z",
+      "county": "32c9f409-df30-40b0-a971-013fdf68ece9",
+      "name": "Yatta",
+      "code": "",
+      "latitude": "-1.234900",
+      "longitude": "37.580300",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ff87ab68-ea6c-40c5-875b-f690f99e04fc",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.107Z",
+      "updated_date": "2023-10-05T08:41:47.107Z",
+      "county": "7123cc00-f512-44b4-bdd8-03ddde82854e",
+      "name": "Gem",
+      "code": "",
+      "latitude": "0.048800",
+      "longitude": "34.452600",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  },
+  {
+    "model": "location.subcounty",
+    "pk": "ff93961c-ad09-415b-bf00-de7e35e7e2b3",
+    "fields": {
+      "created_date": "2023-10-05T08:41:47.125Z",
+      "updated_date": "2023-10-05T08:41:47.125Z",
+      "county": "5b502eb0-d4f4-47d2-8a0f-f118e31a82e9",
+      "name": "Gatanga",
+      "code": "",
+      "latitude": "-0.940600",
+      "longitude": "37.069500",
+      "status": true,
+      "zoom_level": 10.0
+    }
+  }
+]

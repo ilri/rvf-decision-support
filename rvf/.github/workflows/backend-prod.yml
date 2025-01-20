@@ -1,0 +1,70 @@
+name: BACKEND PROD
+
+on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'debug'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+
+jobs:
+  deploy_backend:
+    name: Deploy Backend
+    runs-on: [self-hosted,Linux,X64,rvf-prod]
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Activate Python Environment
+        run: source /var/www/NGINX/venv/bin/activate
+
+      - name: Deployment Happening Notification
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_CHANNEL: rift-valley-fever
+          SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
+          SLACK_ICON: https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-03-21/6861629912400_9e885486444c7f45d5f7_72.png
+          SLACK_MESSAGE: Deployment Started
+          SLACK_TITLE: Successful
+          SLACK_USERNAME: RVF
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+
+      - name: Deploy
+        run: |
+         pm2 stop all
+         pm2 delete all
+         sudo rm -rf /root/.pm2/logs/*
+         sudo rm -rf /var/www/django/rvf/backend
+         sudo cp -r /var/www/NGINX/actions-runner/_work/rvf/rvf/backend /var/www/django/rvf
+         sudo cp -r /var/www/django/.env /var/www/django/rvf/backend
+         pm2 start /var/www/NGINX/ecosystem.config.js
+         pm2 serve -s /var/www/build 3000 --spa
+
+      - name: Slack Notification
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_CHANNEL: rift-valley-fever
+          SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
+          SLACK_ICON: https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-03-21/6861629912400_9e885486444c7f45d5f7_72.png
+          SLACK_MESSAGE: PROD Deployment Done on BE -> http://13.201.24.139:8000/
+          SLACK_TITLE: Successful
+          SLACK_USERNAME: RVF
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          
+      - name: Slack Notification on failure
+        if: failure()
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_CHANNEL: rift-valley-fever
+          SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
+          SLACK_ICON: https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-03-21/6861629912400_9e885486444c7f45d5f7_72.png
+          SLACK_MESSAGE: Deployment done on BE was failure, plz check the error in github_actions
+          SLACK_TITLE: Failed
+          SLACK_USERNAME: RVF
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }} 

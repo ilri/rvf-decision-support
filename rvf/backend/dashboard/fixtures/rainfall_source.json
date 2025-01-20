@@ -1,0 +1,50 @@
+[
+  {
+    "model": "dashboard.rainfallsource",
+    "pk": "3e06b2ac-c055-4ecb-8fed-6c06d5d07453",
+    "fields": {
+      "created_date": "2023-09-29T18:00:01Z",
+      "updated_date": "2023-09-29T18:00:01Z",
+      "indices": null,
+      "name": "GPM",
+      "api_url": "climate_accumulated_rainfall/gpm",
+      "status": false
+    }
+  },
+  {
+    "model": "dashboard.rainfallsource",
+    "pk": "45859653-b95d-4e76-8274-0f199825cda9",
+    "fields": {
+      "created_date": "2023-09-29T18:00:01Z",
+      "updated_date": "2023-09-29T18:00:01Z",
+      "indices": "0b6569d9-8142-494e-9db3-d207c1e44d11",
+      "name": "CHIRPS",
+      "api_url": "accumulated_rainfall/chirps",
+      "status": true
+    }
+  },
+  {
+    "model": "dashboard.rainfallsource",
+    "pk": "bc0f60c6-999f-48f6-a323-643b69b338a0",
+    "fields": {
+      "created_date": "2023-09-29T18:00:03Z",
+      "updated_date": "2023-09-29T18:00:03Z",
+      "indices": "22dd9166-4d5e-4554-bf24-1a3695dc9b50",
+      "name": "GPM",
+      "api_url": "accumulated_rainfall/gpm",
+      "status": true
+    }
+  },
+  {
+    "model": "dashboard.rainfallsource",
+    "pk": "d00672a8-c95e-4989-a4a5-934d503d75b1",
+    "fields": {
+      "created_date": "2023-09-29T18:00:01Z",
+      "updated_date": "2023-09-29T18:00:01Z",
+      "indices": null,
+      "name": "CHIRPS",
+      "api_url": "climate_accumulated_rainfall/chirps",
+      "status": false
+    }
+  }
+]

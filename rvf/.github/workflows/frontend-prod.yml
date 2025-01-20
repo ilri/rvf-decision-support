@@ -1,0 +1,59 @@
+name: REACT-PROD-BUILD
+
+on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'debug'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14  # Use the Node.js version you need for your project
+
+      - name: Which Path
+        run: |
+          cd ${GITHUB_WORKSPACE}
+          pwd
+          ls
+          cd ${GITHUB_WORKSPACE}/web-app
+          SECRET_VALUE="${{ secrets.REACT_PROD_ENV }}"
+          echo "$SECRET_VALUE" > .env
+          cat .env
+          npm install --force
+          # npm install bootstrap
+          # npm install @types/highcharts
+          # npm install --save-dev prettier
+          #npm install @mui/material @emotion/react @emotion/styled
+          #npm install @mui/icons-material
+          npm audit fix
+          npm install --save-dev @babel/plugin-proposal-private-property-in-object
+          # npm install postcss --save-dev
+          # npm install @fortawesome/fontawesome-svg-core
+          CI=false npm run build
+
+      - name: Deploy to my EC2 instance
+        uses: easingthemes/ssh-deploy@v4
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.EC2_PROD_SECRET_KEY }} # 2/3
+        # SSH_PRIVATE_KEY: ${{ secrets.EC2_SSH_DOCKER_KEY_MINE }} #2/3
+          SOURCE: "web-app/build/*"
+          REMOTE_HOST: "ec2-13-201-24-139.ap-south-1.compute.amazonaws.com" #change when EIP modified
+        # REMOTE_HOST: "ec2-3-6-178-48.ap-south-1.compute.amazonaws.com" # For my ec2
+          REMOTE_USER: "ubuntu"
+          TARGET: "/var/www/build" # create the path before

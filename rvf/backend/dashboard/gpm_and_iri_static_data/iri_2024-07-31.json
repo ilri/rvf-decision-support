@@ -1,0 +1,397 @@
+{
+    "result": {
+        "map_data": [
+            {
+                "country_name": "Kenya",
+                "county_name": "Lamu",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.48,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Tana River",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.71,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kilifi",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.71,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Meru",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.61,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kitui",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.7,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Baringo",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 0.4,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Makueni",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.78,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Narok",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.58,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Taita Taveta",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.87,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "West Pokot",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 0.88,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kajiado",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.9,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kisumu",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.45,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Vihiga",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.82,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Murang'a",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.55,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Nyamira",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.33,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Busia",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.72,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Nyeri",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.54,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Siaya",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.69,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Embu",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.62,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Migori",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.72,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Nandi",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 0.72,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Elegeyo-marakwet",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 0.48,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Nyandarua",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.3,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Homa Bay",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.68,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Machakos",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.68,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Garissa",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.58,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Wajir",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.49,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Marsabit",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.56,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Turkana",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 0.09,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Mombasa",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.71,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kirinyaga",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.49,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Laikipia",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.23,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kisii",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.54,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Nakuru",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.1,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Isiolo",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.57,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Bungoma",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 0.45,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Bomet",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.25,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kiambu",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.64,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kericho",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 0.23,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Trans Nzoia",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 1.11,
+                "colour": "#D07A49"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Tharaka - Nithi",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.6,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kakamega",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.15,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Uasin Gishu",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": 0.88,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Mandera",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.51,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Samburu",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.47,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Kwale",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.93,
+                "colour": "#F2B28B"
+            },
+            {
+                "country_name": "Kenya",
+                "county_name": "Nairobi",
+                "sub_county_name": "",
+                "date": "2024-Jul",
+                "value": -0.68,
+                "colour": "#F2B28B"
+            }
+        ],
+        "legend": [
+            {
+                "color": "#F2B28B",
+                "name": "Low"
+            },
+            {
+                "color": "#D07A49",
+                "name": "Moderate"
+            },
+            {
+                "color": "#D5461F",
+                "name": "High"
+            }
+        ]
+    },
+    "code": 200
+}

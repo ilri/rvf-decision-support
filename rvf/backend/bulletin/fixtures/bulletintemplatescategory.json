@@ -1,0 +1,22 @@
+[
+    {
+        "model": "bulletin.bulletintemplatescategory",
+        "pk": "8407d77b-ec23-48e8-8279-bc3ed5be3790",
+        "fields": {
+            "created_date": "2021-11-19T08:04:38.884Z",
+            "updated_date": "2021-11-19T08:04:38.884Z",
+            "name": "Bi-Weekly Bulletin",
+            "status": true
+        }
+    },
+    {
+        "model": "bulletin.bulletintemplatescategory",
+        "pk": "90bff4b4-c8d0-4d7e-9ee0-85174597264c",
+        "fields": {
+            "created_date": "2021-11-19T08:04:38.884Z",
+            "updated_date": "2021-11-19T08:04:38.884Z",
+            "name": "Monthly Bulletin",
+            "status": true
+        }
+    }
+]

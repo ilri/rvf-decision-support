@@ -1,0 +1,30 @@
+[
+  {
+    "model": "dashboard.geeindices",
+    "pk": "0b6569d9-8142-494e-9db3-d207c1e44d11",
+    "fields": {
+      "created_date": "2023-11-02T09:27:28.116Z",
+      "updated_date": "2023-11-02T10:53:33.432Z",
+      "name": "Accumulated Rainfall (CHIRPS)",
+      "dataset": "UCSB-CHG/CHIRPS/DAILY",
+      "status": true,
+      "slug": "accumulated_rainfall_chrips",
+      "min_date": "1981-01-01",
+      "max_date": "2023-09-30"
+    }
+  },
+  {
+    "model": "dashboard.geeindices",
+    "pk": "22dd9166-4d5e-4554-bf24-1a3695dc9b50",
+    "fields": {
+      "created_date": "2021-09-04T09:27:28.116Z",
+      "updated_date": "2023-11-02T10:53:51.944Z",
+      "name": "Accumulated Rainfall (GPM)",
+      "dataset": "NASA/GPM_L3/IMERG_V06",
+      "status": true,
+      "slug": "accumulated_rainfall_gpm",
+      "min_date": "2000-01-01",
+      "max_date": "2023-11-01"
+    }
+  }
+]

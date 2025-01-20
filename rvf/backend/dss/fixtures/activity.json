@@ -1,0 +1,2810 @@
+[
+  {
+    "model": "dss.activity",
+    "pk": "0077147d-eef1-4f34-bc42-f62ccb8c7eec",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "cd40f5bc-5391-4a14-b561-f3724ce63147",
+      "name": "Research",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "00a17ab3-8cc4-4736-af90-6b6dc05ec3ed",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4bdcfe45-1db7-4388-98b6-5da21445d763",
+      "name": "Insecticides applied to livestock",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "00bc11ba-c981-4de0-8045-4a707a608a05",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "d7860d20-cb1c-4f39-afb8-fd69f57e3076",
+      "name": "RVF prevention and control measures",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "00bc18b0-1e13-4d61-8cfd-7246af5add60",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "category": "35703361-6867-4b70-9128-6de031d3f08c",
+      "name": "Form a TWG under RECs",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "02479139-b52c-4bf5-9afd-e4f8e725278f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "1847946c-75e8-4b8d-9e1c-207b3398c484",
+      "name": "Movement control",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "0257bdd1-a29e-4e57-80b7-a9957e19dd6f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "a5e8ec10-0865-42ac-b63f-b8eaa5f45580",
+      "name": "Sero-surveillance",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "08603d9f-21dc-433f-b7c3-8827c83c882f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "88d6b5f7-3162-4423-a9e0-c71cf87a8c45",
+      "name": "Proper record keeping",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "086d9906-bc57-4ac4-bdf0-f23c45cb1055",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "143b76b8-6fa9-4af4-8aa0-35499df1564a",
+      "name": "Local ground truthing",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "0b6f3ed4-b696-4158-8722-77b456573378",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "5bb538a5-3d5c-40d5-93d4-51372e044566",
+      "name": "Build capacity for response in case of epidemic",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "0ca1bb66-01b2-4cb5-897d-383a6310c91b",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "c5b697fe-1dd3-4e7b-9302-c8d5f0d863da",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS/CMO",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "0d777430-86d0-4b5e-82b6-f01137a5a702",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f8476e31-43f0-452c-be7c-6022a52da8a8",
+      "name": "Vector control",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "0f8c7167-1e8f-4026-84e9-15d3bf7e2d74",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "bc67d946-928a-450f-9845-2b1c69080073",
+      "name": "Sero-surveillance",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "10dc6913-6666-44a5-99cd-723c2ec83891",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "category": "f79bfefe-a50e-41b0-80a8-c3c0bcf4a363",
+      "name": "Information management system",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "10dff6e6-258e-4191-b212-d1f7950f602b",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b80f9bc3-d4fe-495f-a08b-6caa8a89d764",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "116b4a41-bdf8-4239-80e3-1ec1556681b6",
+    "fields": {
+      "created_date": "2023-10-05T12:12:33.266Z",
+      "updated_date": "2023-10-05T12:12:33.266Z",
+      "category": "5d0dbd0e-2018-4151-ad1a-783c22f1c964",
+      "name": "Diagnostic laboratories",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "11742b90-6f2b-4c8c-ae5e-0c21ce36b8ea",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "8c2be1a6-a225-4cdf-9bdb-1c1b3bca5b84",
+      "name": " Mobilisation/Deployment",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "11a24735-9731-4c74-8184-032c298fb461",
+    "fields": {
+      "created_date": "2023-10-05T12:19:33.266Z",
+      "updated_date": "2023-10-05T12:19:33.266Z",
+      "category": "8c850144-64d6-4f08-8122-9729b0b375c2",
+      "name": "Joint activities",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "121bd49f-7f57-4454-9cd5-f9031fb13dd6",
+    "fields": {
+      "created_date": "2023-10-22T13:27:33.266Z",
+      "updated_date": "2023-10-22T13:27:33.266Z",
+      "category": "08488211-e182-4c20-a06c-4e63ed74be3d",
+      "name": "Engage local media on RVF preparedness",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "134f377c-15a3-47bc-bf24-ec2cb0c4cd05",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "6210d89a-12a0-4ed9-898f-f3663299b09a",
+      "name": " Adult Mosquito Control",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "14659daa-c3ec-48aa-b8fe-6b12d5204ee6",
+    "fields": {
+      "created_date": "2023-10-05T12:13:33.266Z",
+      "updated_date": "2023-10-05T12:13:33.266Z",
+      "category": "5d0dbd0e-2018-4151-ad1a-783c22f1c964",
+      "name": "Sentinel herds/sites",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "149a6cc2-faa5-4de1-b422-e039cbf272ef",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "722fa69d-7f76-4a5a-b930-e25a22e49205",
+      "name": "Prepare for joint outbreak investigation",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "14caf75e-9826-4826-9f97-e5039d6512e2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "e60d7ae1-5b48-473f-9c91-795ff259dbfc",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "16a37ce5-b005-4742-ab4d-ea16a60a580e",
+    "fields": {
+      "created_date": "2023-10-22T13:27:33.266Z",
+      "updated_date": "2023-10-22T13:27:33.266Z",
+      "category": "08488211-e182-4c20-a06c-4e63ed74be3d",
+      "name": "Communication system appraisal",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "16ae0e1e-3ebb-4776-8798-e79802046776",
+    "fields": {
+      "created_date": "2023-10-05T12:18:33.266Z",
+      "updated_date": "2023-10-05T12:18:33.266Z",
+      "category": "8c850144-64d6-4f08-8122-9729b0b375c2",
+      "name": "Regional Economic Communities",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "17f8b79b-0f5e-4b7a-b13f-8bdc362553a8",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "143b76b8-6fa9-4af4-8aa0-35499df1564a",
+      "name": "Sero-surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "199931cc-fb5f-4aca-8f52-1bb8cd7b1ce9",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b691d315-8673-4f1a-9313-b2b2bcc95659",
+      "name": "Immature Mosquito Control",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "19beb690-48ad-4b55-9f58-08a0ed1ffd46",
+    "fields": {
+      "created_date": "2023-10-22T14:26:33.266Z",
+      "updated_date": "2023-10-22T14:26:33.266Z",
+      "category": "26886725-ed31-4d73-8c4e-3a79df569fb7",
+      "name": "Case management",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "1bd9893d-ab59-4a06-84a1-a00eb7acbc90",
+    "fields": {
+      "created_date": "2023-10-22T13:29:33.266Z",
+      "updated_date": "2023-10-22T13:29:33.266Z",
+      "category": "e1f303bf-cb76-41ac-af6d-7a19a2b57273",
+      "name": "Monitoring of international RVF early warning systems",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "1cc07a39-d54d-4e4c-9670-17fcbff706e5",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4af686db-ceef-4806-9d14-78c52a2ff8ad",
+      "name": "Emergency RVF fund",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "1d168886-8204-4382-acbe-3782a8fc78b1",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "143b76b8-6fa9-4af4-8aa0-35499df1564a",
+      "name": "Active surveillance",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "1eccab0d-0e21-4baa-8caf-b791ee01c373",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "fa64460f-df65-42c1-ac02-3501cd0c83b5",
+      "name": "Local (County, State, etc.) RVF management committees",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "1ff8b079-a21d-4b1b-afdc-503b4ca87e15",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4bdcfe45-1db7-4388-98b6-5da21445d763",
+      "name": "Spray mosquito breeding sites",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "206f281a-dd97-4c32-9c5c-3af60ce3c6f7",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "0d7c832a-497a-42ff-ac1e-86173ec309bc",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "21f58852-2066-46bf-9223-f13a4497b456",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "436c2a4f-d13b-428f-855a-fd4a4e24599f",
+      "name": "Update trading partners",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "23bbfbe8-806d-4309-8227-588dc3678e1e",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "3c0d971d-4c5e-41d6-9e11-50c9c3854d88",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "246ff080-6b34-41a8-b95d-9a80f79fd6a2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "1edc9c8f-4935-4759-8514-271ea3893add",
+      "name": "Credit",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "250121f1-3fa2-48e1-8725-2d8053e5a5e7",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ca2eade8-e6bc-493f-987a-01b6988eb8f4",
+      "name": "Case management",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "2558080a-8416-4a9e-8277-74b46f8d9c2c",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Mosquito surveillance",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "262303c5-c8f9-44e5-8b56-3c0aca1a48e6",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65538640-9b1a-4828-b7f1-36fccc43a663",
+      "name": "Active surveillance",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "28141159-08d4-4d1d-a52d-8c3b86a19e39",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4df5e90f-5946-4f44-a353-e879992c37a1",
+      "name": "Insecticides applied to livestock",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "28331836-2ab7-4735-b505-7b8ad92a6527",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "55cfdedb-8304-4334-ad94-e1be2b8836f0",
+      "name": "Control of adult mosquito Vectors",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "299eb146-f89f-4ab2-aeab-eb3468bc55cf",
+    "fields": {
+      "created_date": "2023-10-05T12:10:33.266Z",
+      "updated_date": "2023-10-05T12:10:33.266Z",
+      "category": "f90618a2-0266-4c4e-8a23-0efedd99bb10",
+      "name": "Environmental control",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "2a31ea3e-2f70-424a-ad16-e14c3bb0a233",
+    "fields": {
+      "created_date": "2023-10-05T12:16:33.266Z",
+      "updated_date": "2023-10-05T12:16:33.266Z",
+      "category": "5d0dbd0e-2018-4151-ad1a-783c22f1c964",
+      "name": "National meteorological data",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "2baf76f0-ba4e-4fe4-bd73-3abf5ac36e4a",
+    "fields": {
+      "created_date": "2023-10-22T13:29:33.266Z",
+      "updated_date": "2023-10-22T13:29:33.266Z",
+      "category": "e1f303bf-cb76-41ac-af6d-7a19a2b57273",
+      "name": "Maintain up-to-date rumour logs",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "2c231a6b-abbc-4b09-8c57-711a8f63a26c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "2145f42d-0a43-44a9-873f-4da5880575d1",
+      "name": "Lessons learnt",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "2cc0964a-3510-411e-b46e-3b768ef300cc",
+    "fields": {
+      "created_date": "2023-10-22T13:27:33.266Z",
+      "updated_date": "2023-10-22T13:27:33.266Z",
+      "category": "08488211-e182-4c20-a06c-4e63ed74be3d",
+      "name": "Development of  advocacy, communication and social mobilisation strategy",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "2d76e46c-1157-4de8-9da2-9a9bd8724594",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "295d8dc8-88ab-4dc0-9c69-6b3d1cb79213",
+      "name": "Movement control",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "2f25484b-4152-493a-9c8b-abf09a5afeeb",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "bc67d946-928a-450f-9845-2b1c69080073",
+      "name": "PS for early outbreak detection",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "2f8a2e00-3385-4f6b-a682-34ec57f949ab",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65538640-9b1a-4828-b7f1-36fccc43a663",
+      "name": "Sentinel herds/sites",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "30b5206a-dcd7-4bc6-a6d7-ee24907e1906",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "2be03a81-ea2f-4b6f-80a6-294764a92fb0",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "30da1b69-8a22-47ef-ba85-c14377030901",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "1847946c-75e8-4b8d-9e1c-207b3398c484",
+      "name": "Case management",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "32412113-f3aa-4040-b8e0-73979fcb0486",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ca2eade8-e6bc-493f-987a-01b6988eb8f4",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "32ea38cb-3060-4e55-a42d-b37e32e7901b",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Cross-cutting",
+      "status": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "33699fff-981e-461e-be57-3221b8bd7649",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "1edc9c8f-4935-4759-8514-271ea3893add",
+      "name": "Grants",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "378aefa9-d42c-4ec9-bc04-68062f9f7a7b",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+      "name": "Active surveillance",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "37e838db-2ccf-45d7-b800-7f39482f7829",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f18ee35d-5371-4292-a4a6-72de98946fe8",
+      "name": "PS for early outbreak detection",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "386effdf-08b8-45fe-86ae-f7df2af90c41",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "878c3ef6-0f2c-464a-acb0-688c0bcfd33d",
+      "name": "Vector control",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "3937bc29-139a-4903-bc44-489541629274",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "24b4ad0b-ce1c-4a78-afc0-938dbf0e57dd",
+      "name": "Insecticide for application to livestock",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "393f05f2-a784-4e7f-a40a-7c0b6b8a8c1a",
+    "fields": {
+      "created_date": "2023-10-22T13:27:33.266Z",
+      "updated_date": "2023-10-22T13:27:33.266Z",
+      "category": "08488211-e182-4c20-a06c-4e63ed74be3d",
+      "name": "Participatory message development",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "39b1a52e-3c82-49d3-8382-1c614d8ef606",
+    "fields": {
+      "created_date": "2023-10-22T14:26:33.266Z",
+      "updated_date": "2023-10-22T14:26:33.266Z",
+      "category": "85babebb-47ad-452b-9b8e-4ca75804d6f7",
+      "name": "Promote the usage of appropriate vector control measures ",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "3b786cea-e580-4525-aa6a-59a9915daa29",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "1847946c-75e8-4b8d-9e1c-207b3398c484",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "3e54f023-689f-4922-9501-6242a8213864",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ceb42d68-d566-49bd-ae76-9354b5c14142",
+      "name": "Advocacy",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "3f6790b8-c5d7-4ee1-8de5-25535b62e7c6",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f51151e7-be9c-4f8e-823b-4ee3f479de94",
+      "name": "Notify trade partners",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "41925824-f856-4a02-989a-eb0518d4b080",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Opportunistic surveillance",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "4420ac92-da14-4a1a-9a7c-210306b955bb",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f24bc819-061d-4ea5-bf1e-4e48139a99c8",
+      "name": "Vector control",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "44f16f53-87e4-4900-816b-125551aa9849",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b18197cb-8ea5-440f-b61f-8c619f041efa",
+      "name": "Active sero-surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "45ed0346-9398-44be-98f5-f535d7688fc9",
+    "fields": {
+      "created_date": "2023-10-05T12:22:33.266Z",
+      "updated_date": "2023-10-05T12:22:33.266Z",
+      "category": "053c37c3-005b-43b6-8209-43b6530b6ec8",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "46253f56-085d-4c21-8533-9ccc53e194f4",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+      "name": "Rumour logs",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "471cf981-4b02-4ed7-a477-a6e7d13071b8",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+      "name": "International RVF early warning systems",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "4a801977-23d4-4e59-8de0-b53f94df58ba",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "55cfdedb-8304-4334-ad94-e1be2b8836f0",
+      "name": "Spray mosquito breeding sites",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "4db9289f-f600-48f1-ac75-10ec8c2db078",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b691d315-8673-4f1a-9313-b2b2bcc95659",
+      "name": "Insecticides applied to livestock",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "4ea520f8-4dc1-4575-a98f-9809cd5e6b8b",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+      "name": "Local ground truthing",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "515dd953-5853-4f5b-8c14-38478a0f2332",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "e60d7ae1-5b48-473f-9c91-795ff259dbfc",
+      "name": "Local (County, State, etc.) RVF management committees",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "540fe6d1-9a88-4abb-90cd-727383c58825",
+    "fields": {
+      "created_date": "2023-10-22T14:28:33.266Z",
+      "updated_date": "2023-10-22T14:28:33.266Z",
+      "category": "6611cf92-d5f1-4baf-9615-786a7e149490",
+      "name": "RVF diagnostic reagents",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5539c984-4a7d-466c-a8f9-2210fc2de8aa",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "46b53e9a-12be-40e4-9548-b347c3d5a3d4",
+      "name": "Feedback",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "55d178d9-afb2-4dc0-b647-26cc9a632830",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Participatory/community surveillance ",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "56d81c45-724f-4743-8e87-80b64ae956d9",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "03261423-a4d6-4772-b2fb-4e1f63723f0d",
+      "name": "Risk assessment",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5703b974-b01e-4986-a97c-4ed1624ea5fe",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "32dc3dcb-3b6b-49e7-9349-2bc771feec6d",
+      "name": " Mobilisation/Deployment",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "57c62f2c-79ad-4c26-8b95-93d49b4c8da3",
+    "fields": {
+      "created_date": "2023-10-22T14:29:33.266Z",
+      "updated_date": "2023-10-22T14:29:33.266Z",
+      "category": "6227948d-92a5-48e7-a0a1-1364e734543d",
+      "name": "Impact Assessment",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "58422132-412f-401c-bdbf-208c8a691685",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b80f9bc3-d4fe-495f-a08b-6caa8a89d764",
+      "name": "RECs",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "58bb24be-b31e-4f34-944c-9b5f92669d51",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+      "name": "National meteorological data",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "595ace6c-f87c-4842-a1a1-7d4b659754af",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b691d315-8673-4f1a-9313-b2b2bcc95659",
+      "name": "Adult Mosquito Control",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5986da8a-49e2-4298-a6b6-26df29b531dd",
+    "fields": {
+      "created_date": "2023-10-22T14:26:33.266Z",
+      "updated_date": "2023-10-22T14:26:33.266Z",
+      "category": "26886725-ed31-4d73-8c4e-3a79df569fb7",
+      "name": "Control of endemic RVF ",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5aa0d543-3cd0-4608-a3f5-e98cb1df80b2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+      "name": "Sentinel herds/sites",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5c4d5905-6a8b-4b1f-ae1b-34a089124646",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "55cfdedb-8304-4334-ad94-e1be2b8836f0",
+      "name": "Control of Immature Mosquito Vectors",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5c629bee-778b-4658-9216-0e2aa36f988f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "06f36bc4-25f4-40db-bdc9-e241ad9eacc7",
+      "name": "EAC/RECs",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5d898ac0-5e01-489e-be6d-096050e263d9",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65538640-9b1a-4828-b7f1-36fccc43a663",
+      "name": "Participatory/community surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5d9eb635-f609-46a3-b821-69fe601b35e3",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "fe79bf2d-69a6-4c27-9177-38dadcd14d90",
+      "name": "Proper record keeping",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5ea95d96-7596-49eb-8187-dcb41b98c1e9",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b18197cb-8ea5-440f-b61f-8c619f041efa",
+      "name": "Lessons learnt",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "5f044f32-371f-4fc4-a64c-2b290a5023bc",
+    "fields": {
+      "created_date": "2023-10-22T14:29:33.266Z",
+      "updated_date": "2023-10-22T14:29:33.266Z",
+      "category": "6227948d-92a5-48e7-a0a1-1364e734543d",
+      "name": "Conduct operational research on RVF prevention and control technologies and approaches",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "600d1e02-b210-405e-8261-9f6ab23c97bf",
+    "fields": {
+      "created_date": "2023-10-22T14:27:33.266Z",
+      "updated_date": "2023-10-22T14:27:33.266Z",
+      "category": "39b44d3e-c6ec-4ec2-b5d0-7cd187900628",
+      "name": "Concept notes",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "624533b9-2e8a-4639-8a5f-3d02ccb82ff2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b80f9bc3-d4fe-495f-a08b-6caa8a89d764",
+      "name": "Local (County, State, etc.) RVF management committees",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "62b2b2d1-4867-4738-a13b-e5839028cc70",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4df5e90f-5946-4f44-a353-e879992c37a1",
+      "name": "Immature Mosquito Control",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "635ca9b2-99d1-440b-9b0f-0f7429aa2152",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "230f63d9-ecb8-41ad-85cb-122bf88e14e6",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "6456c895-f14a-4b87-bfd4-cd9b84c3bc11",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+      "name": "International RVF early warning systems",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "65cfb0d8-1a90-440f-a8ba-c3f543f4cb96",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "2145f42d-0a43-44a9-873f-4da5880575d1",
+      "name": "Socio-economics",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "6652c793-1d2e-4df5-a28a-d711dcc417c4",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "fe79bf2d-69a6-4c27-9177-38dadcd14d90",
+      "name": "Prepare for joint outbreak investigation",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "6875fc9d-bb0b-40df-8d7e-9664778bf3a1",
+    "fields": {
+      "created_date": "2023-10-05T12:05:33.266Z",
+      "updated_date": "2023-10-05T12:05:33.266Z",
+      "category": "bfc15ed9-3028-4696-906d-e5a490342cf4",
+      "name": "Risk assessment",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "6a0f8202-a653-40b8-b1dd-7243face4ea9",
+    "fields": {
+      "created_date": "2023-10-05T12:07:33.266Z",
+      "updated_date": "2023-10-05T12:07:33.266Z",
+      "category": "d4855a52-3a29-4f43-8693-05c1504087f6",
+      "name": "Notify trade partners",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "6b48e5af-1493-444f-93b5-ee022e208ac1",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Sentinel surveillance and sentinel herd surveillance",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "6ec24b80-5178-48aa-b631-b8343a099a21",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "9a05aab5-3f1e-40a7-a022-7d4f60336289",
+      "name": " Mobilisation/Deployment",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "6ee33f0b-1988-4b07-b011-1e789cdf26af",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4ea0c806-8cc9-4ba6-8e26-4d9b8218f72e",
+      "name": "EAC/RECs",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "71ee5824-3098-48c3-92d3-4dc7b6179e97",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "e60d7ae1-5b48-473f-9c91-795ff259dbfc",
+      "name": "RECs",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "729f249b-7a61-4a05-999e-c53d5d74d2cf",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "19101cfa-3e8a-4e4f-9769-28dfc1723cea",
+      "name": "Movement control and quarantine",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "72ec465c-731a-4962-827d-4fce32f5c41f",
+    "fields": {
+      "created_date": "2023-10-05T12:23:33.266Z",
+      "updated_date": "2023-10-05T12:23:33.266Z",
+      "category": "ed827c15-c454-46a0-826f-011d2a7ec3e7",
+      "name": "Assess national/regional capacity to respond",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "7316bd69-fca3-4cfa-9de7-fbef5957c791",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "bc67d946-928a-450f-9845-2b1c69080073",
+      "name": "Active surveillance",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "73ea6aa4-0e20-4396-a320-3d1090665293",
+    "fields": {
+      "created_date": "2023-10-22T14:26:33.266Z",
+      "updated_date": "2023-10-22T14:26:33.266Z",
+      "category": "26886725-ed31-4d73-8c4e-3a79df569fb7",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "73fc4e36-0acb-433f-a8c0-390c5f463ae3",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+      "name": "Participatory/community surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "74fc7d7c-d95a-4499-ae44-77528e62ce85",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "143b76b8-6fa9-4af4-8aa0-35499df1564a",
+      "name": "Definitive laboratory diagnosis",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "7508c66a-d4ee-4420-80dd-554478b00c29",
+    "fields": {
+      "created_date": "2023-10-22T14:28:33.266Z",
+      "updated_date": "2023-10-22T14:28:33.266Z",
+      "category": "6611cf92-d5f1-4baf-9615-786a7e149490",
+      "name": "National/sub-national regulations and laws",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "77050b85-4ab1-4787-ac38-6ead9dd7a4b3",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "category": "f79bfefe-a50e-41b0-80a8-c3c0bcf4a363",
+      "name": "Simulation exercise",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "77805777-1831-458a-8b7c-9e980d6e179b",
+    "fields": {
+      "created_date": "2023-10-22T14:28:33.266Z",
+      "updated_date": "2023-10-22T14:28:33.266Z",
+      "category": "6611cf92-d5f1-4baf-9615-786a7e149490",
+      "name": "Commodity-based trade",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "77f47981-8924-4ddb-acf7-76bfc51d138d",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "24b4ad0b-ce1c-4a78-afc0-938dbf0e57dd",
+      "name": "Environmental management",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "7851c443-e43a-4f09-b232-913c4cdd0508",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "a5e8ec10-0865-42ac-b63f-b8eaa5f45580",
+      "name": "Definitive laboratory diagnosis",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "78649ee7-db44-4cd2-af1c-11e0191f0477",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "6210d89a-12a0-4ed9-898f-f3663299b09a",
+      "name": "Insecticides applied to livestock",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "78bd924d-d6ae-4397-8689-3c0e6cf4752c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4ea0c806-8cc9-4ba6-8e26-4d9b8218f72e",
+      "name": "Local (County, State, etc.) RVF management committees",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "7bda862b-25f5-4385-955c-19d32c5eea76",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65538640-9b1a-4828-b7f1-36fccc43a663",
+      "name": "Local ground truthing",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "7cd73cf8-d245-488c-97c8-762d40692c01",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "03261423-a4d6-4772-b2fb-4e1f63723f0d",
+      "name": "Vector control",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "7f282f3d-e654-4ce4-93ff-a2a9b427214c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7a597787-71ac-4459-92ff-69368d8b9593",
+      "name": "Emergency RVF fund",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "80ffbcdb-9a4e-4303-9450-cb720e0dba22",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+      "name": "National meteorological data",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "817286a8-164c-4421-9558-a948b3973cdc",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "39cc164b-0b45-4eb0-b220-c910bf0e8af9",
+      "name": "Movement control and quarantine",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "821328a2-41a6-4eba-a19b-3453a025dd4b",
+    "fields": {
+      "created_date": "2023-10-05T12:15:33.266Z",
+      "updated_date": "2023-10-05T12:15:33.266Z",
+      "category": "5d0dbd0e-2018-4151-ad1a-783c22f1c964",
+      "name": "Local ground truthing",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "8240bc00-81ba-493b-bc75-382928035021",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "68536d64-68bd-49fe-819b-69e6e73b3a58",
+      "name": "Movement control",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "82c7811d-b84a-45f7-a102-03a88a0b38b9",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+      "name": "Active surveillance",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "838f0737-6ee5-422e-8064-1dabf02a13b5",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "d326a6cf-0a09-4e6f-abb5-33f19b3bb81e",
+      "name": " Mobilisation/Deployment",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "83c1e86d-a849-440e-8030-9c32d5a5ec7c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "fa64460f-df65-42c1-ac02-3501cd0c83b5",
+      "name": "RECs",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "8461a43f-067c-4e13-9dbf-69eecb44b5c6",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Cross-sectional random surveys",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "84a5e699-3629-4fe9-84cd-ed92199dc33a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4ea0c806-8cc9-4ba6-8e26-4d9b8218f72e",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "85222a24-15bd-4310-85ca-f9e6c0f50762",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "bae41b88-a7c2-4b64-9d79-243b783e3582",
+      "name": "RECs",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "86f61f8a-36a4-4d9f-84a0-2c295eb3ac98",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "e35e8c60-51cd-41ea-9e5c-65aa6988d491",
+      "name": "Needs  assessment of affected communities",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "87b52402-c364-4248-a546-0503878c44e1",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "2145f42d-0a43-44a9-873f-4da5880575d1",
+      "name": "Impact assessment",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "8a47fb6f-c445-4849-8bef-1c2cdf3f4eac",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+      "name": "Diagnostic laboratories",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "8a9911f8-366e-4090-b724-bd79a9271a3e",
+    "fields": {
+      "created_date": "2023-10-05T12:20:33.266Z",
+      "updated_date": "2023-10-05T12:20:33.266Z",
+      "category": "8c850144-64d6-4f08-8122-9729b0b375c2",
+      "name": "Collaboration between human health and veterinary sectors",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "8be1baf4-e0cb-4d8f-86c8-2bfb8b6062c7",
+    "fields": {
+      "created_date": "2023-10-22T14:26:33.266Z",
+      "updated_date": "2023-10-22T14:26:33.266Z",
+      "category": "f2af80a7-d1ae-4a5e-a12c-c0a04c445e56",
+      "name": "Livestock value chains",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "8c4e758a-c397-487a-b2bc-df3a527f6317",
+    "fields": {
+      "created_date": "2023-10-05T12:09:33.266Z",
+      "updated_date": "2023-10-05T12:09:33.266Z",
+      "category": "f90618a2-0266-4c4e-8a23-0efedd99bb10",
+      "name": "Livestock insecticides",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "8e97fa74-3278-470f-a287-97077ee5c285",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "68536d64-68bd-49fe-819b-69e6e73b3a58",
+      "name": "Notify OIE and trade stakeholders",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "8faf4c62-8610-4546-a102-954638635ea6",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Wildlife surveillance",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "901ed2a1-7359-4eaa-8d40-137fd7c7ec49",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b3c4855a-14e6-43cd-b595-667606b12e97",
+      "name": "Impact assessment",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "92bf0fef-6119-402e-867c-2d7b5f46be1a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7aebb4de-3c9e-411f-9a47-e0a93b6f2a4e",
+      "name": "Spray mosquito breeding sites",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "9356149d-a773-463e-996c-c52cf647729a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b3c4855a-14e6-43cd-b595-667606b12e97",
+      "name": "Risk assessment",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "94700ab3-e1e4-4e71-a773-6d77707e6ebf",
+    "fields": {
+      "created_date": "2023-10-05T12:21:33.266Z",
+      "updated_date": "2023-10-05T12:21:33.266Z",
+      "category": "8c850144-64d6-4f08-8122-9729b0b375c2",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "95b2e8b8-e3dc-4175-a431-522e4ef8a781",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "295d8dc8-88ab-4dc0-9c69-6b3d1cb79213",
+      "name": "Notify OIE and trade stakeholders",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "95b690c4-2503-42fb-a5a2-a3ef9e88efe3",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65538640-9b1a-4828-b7f1-36fccc43a663",
+      "name": "Diagnostic laboratories",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "969329a7-6b40-496f-9725-f8d869939452",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "71616aa5-f9bc-4f09-9f16-2e5c94fd0a76",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "980bcd67-834f-4819-a9af-4a882607b6eb",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Passive/routine surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "98620da3-e50b-445e-ace9-9cd481a9fe5f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "230f63d9-ecb8-41ad-85cb-122bf88e14e6",
+      "name": "Safe slaughter",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "98cc6e06-8749-4dc3-a888-6051cd6cf298",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "291dee27-9d1b-44c3-8c6f-54f715c146f2",
+      "name": "Promotion of domestic, regional and international trade",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "998b9986-d29f-4b02-b41a-2a98534a5256",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "6d8bc258-6d47-4912-85e5-ea2fc3f72860",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a1275b9d-4678-48b0-a415-1a937c7340ce",
+    "fields": {
+      "created_date": "2023-10-05T12:08:33.266Z",
+      "updated_date": "2023-10-05T12:08:33.266Z",
+      "category": "f90618a2-0266-4c4e-8a23-0efedd99bb10",
+      "name": "Immature mosquito control",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a127f148-7f7d-4d7f-b873-bd4d750b8f11",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "230f63d9-ecb8-41ad-85cb-122bf88e14e6",
+      "name": "Case management",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a1bad800-b07d-45f3-b442-2df3e81b62eb",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4bdcfe45-1db7-4388-98b6-5da21445d763",
+      "name": "Control of adult mosquito Vectors",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a263e0c6-5e8e-4b8e-8985-a88b0a2eba8e",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f18ee35d-5371-4292-a4a6-72de98946fe8",
+      "name": "Definitive laboratory diagnosis",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a2f617c9-776f-4275-bb5c-14bb002b0909",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "047ef48b-8e9d-48e1-ae4b-77407e2241f8",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a3291118-57f6-4410-a8e2-304a8a98bef2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "d57c555b-c579-425f-8cf4-83bba86ac29d",
+      "name": "Emergency RVF fund",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a3a9e719-4b97-4de4-8ed3-b5910d8da950",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "0f2a37e1-0e06-44aa-ab05-928a575596c5",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a41452aa-b825-4531-8e6a-84aa3dace395",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "bc67d946-928a-450f-9845-2b1c69080073",
+      "name": "Definitive laboratory diagnosis",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a5e8f706-42eb-4727-97f7-58483d2b96a7",
+    "fields": {
+      "created_date": "2023-10-22T12:27:33.266Z",
+      "updated_date": "2023-10-22T12:27:33.266Z",
+      "category": "f79bfefe-a50e-41b0-80a8-c3c0bcf4a363",
+      "name": "Risk assessment ",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "a80fe040-e215-4c13-8f5a-631ca4268436",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65538640-9b1a-4828-b7f1-36fccc43a663",
+      "name": "National meteorological data",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ab7f3149-c66d-46a3-885d-d8a6f80a1657",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "88d6b5f7-3162-4423-a9e0-c71cf87a8c45",
+      "name": "Research",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ac5b0e15-8ae5-4843-88ba-8a57f5e6da9e",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "143b76b8-6fa9-4af4-8aa0-35499df1564a",
+      "name": "PS for early outbreak detection",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ae1d7eaa-11b8-4815-93d7-9775f084d0aa",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f8515d47-87a4-47a2-a1a2-6c94fecdf4df",
+      "name": "Monitor for confirmation of end of outbreak",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "aeaafb5f-f162-4a46-81a5-68ab3f7d3b3a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "230f63d9-ecb8-41ad-85cb-122bf88e14e6",
+      "name": "Movement control",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "af4adc86-25f5-4656-b8ab-57d7bbc126d2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "55cfdedb-8304-4334-ad94-e1be2b8836f0",
+      "name": "Insecticides applied to livestock",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "afee0870-8ada-40db-8f57-8af97068b03f",
+    "fields": {
+      "created_date": "2023-10-22T14:29:33.266Z",
+      "updated_date": "2023-10-22T14:29:33.266Z",
+      "category": "6227948d-92a5-48e7-a0a1-1364e734543d",
+      "name": "Climate Change",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "b20ef8bc-6baf-43ca-9815-b783b28ea4ee",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f18ee35d-5371-4292-a4a6-72de98946fe8",
+      "name": "Local ground truthing",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "b2a36e17-6456-4847-9112-a2b512283a03",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "e2a9b922-f06f-41c1-8be9-3651fabbfac5",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "b2d3e23e-0ad5-4d2d-b5f6-abd326b965e2",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "54e8581f-6894-4408-beb2-96f35558f240",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "b49a7e14-80fc-45c8-9822-53e93ca1fc8a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "6ace28bd-31cf-4b68-9d77-412c8fc706f1",
+      "name": "Emergency RVF funds",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "b5785512-9582-465c-afa3-edad65bba46b",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "1978152d-d6ec-4842-8d26-9dcaf6fdfd4d",
+      "name": "Build capacity for response",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "b85cf75c-e877-40c6-b610-249068b2caa8",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "fa64460f-df65-42c1-ac02-3501cd0c83b5",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "b8e60ba1-32ca-4086-b489-6a63cc9c1978",
+    "fields": {
+      "created_date": "2023-10-22T14:26:33.266Z",
+      "updated_date": "2023-10-22T14:26:33.266Z",
+      "category": "f2af80a7-d1ae-4a5e-a12c-c0a04c445e56",
+      "name": "Economic risk mitigation",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "b99dbafd-21ec-4f06-8f37-0909b5d71121",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b691d315-8673-4f1a-9313-b2b2bcc95659",
+      "name": "Insecticide impregnated nets",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "baf76407-de27-4348-920d-0ed21f51b202",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "62f09c65-2506-40e9-8f48-e27122867dff",
+      "name": "Build capacity for response",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "bc3ed510-878f-4e2e-978a-53452bebff53",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "48dbf051-dcae-417b-9306-f1ee899401de",
+      "name": "Emergency RVF fund",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "bc89a182-8a7f-4478-8a16-27a9b1bededc",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "722fa69d-7f76-4a5a-b930-e25a22e49205",
+      "name": "Proper record keeping",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "be22ab08-97b2-469a-b134-409f0319422a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "a5e8ec10-0865-42ac-b63f-b8eaa5f45580",
+      "name": "Active surveillance",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "c068d652-a231-48fa-96b7-a5fc06d6adde",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "89a700af-90a5-4cc4-bacf-46a8ef6b4ada",
+      "name": "Notify trade partners and stakeholders",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "c07a2192-0702-4435-a08d-8a3844f23a33",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+      "name": "Participatory /community surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "c34515fe-1078-428e-a7e9-702e39bc2092",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+      "name": "Ground truthing",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "c4c85522-555a-405e-97f3-edb15e4a70c4",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f18ee35d-5371-4292-a4a6-72de98946fe8",
+      "name": "Active surveillance",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "c4fefcbc-9438-431c-b4a6-ba55bb83960c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "c0ff335b-1256-4272-a430-a3272d01e18f",
+      "name": "International RVF early warning systems",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "c68e710d-ea15-4b9a-8ecd-44370f3c2373",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "a889d006-8b88-4ba1-928b-473e2764963f",
+      "name": "Assessment",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ca8758a8-272f-4a94-87ba-c262fee4b139",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f0065a2b-5433-4783-8dcb-2bd5440b5530",
+      "name": "Notify trade partners",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "cb1208d8-0d6b-48bf-afa8-f085723f3dd1",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65538640-9b1a-4828-b7f1-36fccc43a663",
+      "name": "International RVF early warning systems",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "cc35ec6c-7aa1-48d2-ac1a-bce6021de9b6",
+    "fields": {
+      "created_date": "2023-10-22T14:25:33.266Z",
+      "updated_date": "2023-10-22T14:25:33.266Z",
+      "category": "754cbede-004c-47f1-9e86-12748c5f1d9f",
+      "name": "Surveillance for other diseases",
+      "status": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ceb702b3-5bb3-48bb-993f-ce6c6e268582",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+      "name": "Rumour log",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d012b83a-4dc2-412f-b9bc-adc9e15f9e62",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65538640-9b1a-4828-b7f1-36fccc43a663",
+      "name": "Rumour logs",
+      "status": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d07c9c96-3fba-46ce-af6a-a9731d31be3e",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b18197cb-8ea5-440f-b61f-8c619f041efa",
+      "name": "Impact assessment",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d09576af-47f8-4bba-af0d-11d477b94d8d",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "1affb71e-12e5-485a-adbe-657e0614c87b",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d1d022e1-bfed-4558-8f61-10375efb54da",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "0f2a37e1-0e06-44aa-ab05-928a575596c5",
+      "name": "Case management",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d2afd44f-eb31-4244-a741-6f4c2ba45e77",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7aebb4de-3c9e-411f-9a47-e0a93b6f2a4e",
+      "name": "Immature Mosquito Control",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d33e322a-29bb-4abd-85c5-aa70241e5825",
+    "fields": {
+      "created_date": "2023-10-05T12:17:33.266Z",
+      "updated_date": "2023-10-05T12:17:33.266Z",
+      "category": "5d0dbd0e-2018-4151-ad1a-783c22f1c964",
+      "name": "International RVF early warning systems",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d42d5270-c4f9-49b9-a2d8-4983ad64d1de",
+    "fields": {
+      "created_date": "2023-10-22T14:27:33.266Z",
+      "updated_date": "2023-10-22T14:27:33.266Z",
+      "category": "39b44d3e-c6ec-4ec2-b5d0-7cd187900628",
+      "name": "Advocacy for increased budget to ministry responsible for livestock",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d4fe667e-72a6-4336-a622-ad3be658eeaa",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f79bfefe-a50e-41b0-80a8-c3c0bcf4a363",
+      "name": "Laboratory diagnosis",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d53a020b-1ab9-49c5-ace5-9fb8676ec827",
+    "fields": {
+      "created_date": "2023-10-22T14:29:33.266Z",
+      "updated_date": "2023-10-22T14:29:33.266Z",
+      "category": "6227948d-92a5-48e7-a0a1-1364e734543d",
+      "name": "Risk Assessment",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d5a6a5b2-a697-4945-9777-e0913ffa2d8d",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ceb42d68-d566-49bd-ae76-9354b5c14142",
+      "name": "RVF emergency fund",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d5e30934-dcb5-4a1a-9f6f-e2f811ce359a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f18ee35d-5371-4292-a4a6-72de98946fe8",
+      "name": "Sero-surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d71505e5-ddbc-4a85-9a6b-acf43fe2edf4",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "65463ba5-6b3e-4e76-85bb-2d22442bbd82",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "d8fc579c-e573-4128-9cd0-49e066d80284",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "06f36bc4-25f4-40db-bdc9-e241ad9eacc7",
+      "name": "Local (County, State, etc.) RVF management committees",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "daab4a3c-6a54-42cd-80ec-0f496ff9b78a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "6ace28bd-31cf-4b68-9d77-412c8fc706f1",
+      "name": "Donors",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "dbfbcdcd-b90c-4897-b244-7e85932586f0",
+    "fields": {
+      "created_date": "2023-10-05T12:06:33.266Z",
+      "updated_date": "2023-10-05T12:06:33.266Z",
+      "category": "d28bb429-bc4a-4370-bb3c-2e80b07de995",
+      "name": "Notification of RVF early warning",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "dc3f2823-54e5-4f24-9105-ba6add388ca7",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "2e833596-6ac3-442a-a146-189116ad2c09",
+      "name": "Public awareness",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "dce3f245-da52-407c-88b6-00e4579aab8a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4bdcfe45-1db7-4388-98b6-5da21445d763",
+      "name": "Control of Immature Mosquito Vectors",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ddb12686-042f-4051-b3c9-29534d20bd8e",
+    "fields": {
+      "created_date": "2023-10-22T13:28:33.266Z",
+      "updated_date": "2023-10-22T13:28:33.266Z",
+      "category": "35703361-6867-4b70-9128-6de031d3f08c",
+      "name": "Establish national and regional networks for preparedness, prevention and response involving  medical authorities, veterinary authorities, wildlife services, meteorological services, disaster management authorities, NGOs and regional (i.e. IGAD) and international organisations with interest in RVF",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "e1ffa936-8f0c-422c-8001-8161176f8781",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "06f36bc4-25f4-40db-bdc9-e241ad9eacc7",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "e2fd7e31-8af0-4784-a6e0-ca2df1bad41f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "1847946c-75e8-4b8d-9e1c-207b3398c484",
+      "name": "Safe slaughter",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "e36bb4ed-00a3-457f-912f-e68ea08376f0",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7aebb4de-3c9e-411f-9a47-e0a93b6f2a4e",
+      "name": "Insecticides applied to livestock",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "e44aff7d-dd9e-4a3d-8017-498e2f50f277",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "0d60067d-125b-4a4f-a6bd-60153d3192b9",
+      "name": "Case management",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "e7ef8f9d-701a-414a-b18d-1971968a757b",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "3c0d971d-4c5e-41d6-9e11-50c9c3854d88",
+      "name": "Case management",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "e8cc4bdd-efed-4859-8da1-827a7d2805ff",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "0d60067d-125b-4a4f-a6bd-60153d3192b9",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "e9c1f183-c348-4f8e-9174-ddcaf4866544",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "bae41b88-a7c2-4b64-9d79-243b783e3582",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ebc884d6-3d02-49e4-8f02-cfbb91cd12f6",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "2be03a81-ea2f-4b6f-80a6-294764a92fb0",
+      "name": "Local (County, State, etc.) RVF management committees",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ebf37aa6-537e-4120-94ac-2e3a9fbc96a0",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "14f829f4-6e1e-4a3e-b818-8f46a347f37e",
+      "name": "Emergency RVF funds",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ed48234c-9d64-4ff6-a4dd-e15935cba47c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "443e215f-5e6c-4c08-a3e7-99547977a40f",
+      "name": "Lessons learnt",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ee561394-f30c-4b31-bd70-7d4c3c6823c6",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f8476e31-43f0-452c-be7c-6022a52da8a8",
+      "name": "RVF prevention and control measures",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f0f829f5-10b1-41bd-8adb-11fa33688195",
+    "fields": {
+      "created_date": "2023-10-05T12:14:33.266Z",
+      "updated_date": "2023-10-05T12:14:33.266Z",
+      "category": "5d0dbd0e-2018-4151-ad1a-783c22f1c964",
+      "name": "Active surveillance",
+      "status": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f13cfb7e-99b6-4f4e-9737-a45c1209f217",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "14f829f4-6e1e-4a3e-b818-8f46a347f37e",
+      "name": "Donors",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f15c5fb6-84e5-4d0d-9ab6-b25de90837bc",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "bae41b88-a7c2-4b64-9d79-243b783e3582",
+      "name": "Local (County, State, etc.) RVF management committees",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f19db341-898c-4d9d-9f2d-e140692ff744",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "f24bc819-061d-4ea5-bf1e-4e48139a99c8",
+      "name": "Risk assessment",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f1d895cb-4963-49c4-8128-1a477c7aa888",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "7fdfc6da-efb3-492c-ba3c-4ae623ebe0d6",
+      "name": "Sentinel herds/sites",
+      "status": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f37205cb-fc51-4019-b06f-b733513ff85b",
+    "fields": {
+      "created_date": "2023-10-22T14:26:33.266Z",
+      "updated_date": "2023-10-22T14:26:33.266Z",
+      "category": "f2af80a7-d1ae-4a5e-a12c-c0a04c445e56",
+      "name": "Dialogue with regional and international trading partners",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f4fb86de-545e-4e99-908b-7ff29fcdf708",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "4df5e90f-5946-4f44-a353-e879992c37a1",
+      "name": "Spray mosquito breeding sites",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f5ca238f-007d-41bf-9352-d4933ba0c14a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "2be03a81-ea2f-4b6f-80a6-294764a92fb0",
+      "name": "Regional Economic Communities (RECs)",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f5dccdcf-a5de-4a09-9839-e3fb968e5e86",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "6210d89a-12a0-4ed9-898f-f3663299b09a",
+      "name": "Insecticide impregnated nets",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "f74ac661-a039-4365-8335-f6735253bd50",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "b18197cb-8ea5-440f-b61f-8c619f041efa",
+      "name": "Socio-economics",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "fabd5813-dd0e-4d78-b6e9-2c2eecdc1188",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "8becb967-7101-4e4f-bffe-1cd39dbf54d1",
+      "name": "Emergency RVF fund",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "fbeec431-a474-4ff5-8f23-8559463cf56d",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "6210d89a-12a0-4ed9-898f-f3663299b09a",
+      "name": " Immature Mosquito Control",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "fc216d10-454c-4e19-9aed-15b98b3bf23c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "25e8b7aa-0506-4464-a8e2-8d4e194b2023",
+      "name": "Sentinel herds/sites",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "fcc23943-7c43-4dc5-81af-d85752ce608a",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "39298405-100c-4444-92a3-0b37d48b058d",
+      "name": "Emergency RVF fund",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "fd85db2c-b854-4ee6-919c-6689d2ba0d20",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "cd40f5bc-5391-4a14-b561-f3724ce63147",
+      "name": "Proper record keeping",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "fe0d0932-aa88-4e7a-b770-4e5c5edddd14",
+    "fields": {
+      "created_date": "2023-10-05T12:11:33.266Z",
+      "updated_date": "2023-10-05T12:11:33.266Z",
+      "category": "de21a344-4508-4782-b149-a4da0b1cde5d",
+      "name": "Vaccination",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ff4ca9c0-6f0a-4b46-9e8c-52fe081461bb",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "ec413a79-8927-4beb-b1d8-4fa7ea02e17f",
+      "name": "Diagnostic laboratories",
+      "status": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ff720fc8-8379-4589-a52c-ba87d741f967",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "a5e8ec10-0865-42ac-b63f-b8eaa5f45580",
+      "name": "PS for early outbreak detection",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.activity",
+    "pk": "ffd00090-645a-4796-b973-28c5c5e0cfde",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "category": "d975f6d9-3977-4987-9150-222432910e8c",
+      "name": "Multi-sectoral technical committee under co-chairmanship of DVS and DMS",
+      "status": true,
+      "order": 1
+    }
+  }
+]

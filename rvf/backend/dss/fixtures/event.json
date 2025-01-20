@@ -1,0 +1,86 @@
+[
+  {
+    "model": "dss.event",
+    "pk": "9d4bf18f-d5cd-415c-b947-088f97e6e7c1",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "name": "Post outbreak recovery and reflection",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "dss.event",
+    "pk": "9dc7aa08-e7b4-43d4-b67e-ef2696565a6c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "name": "Early warning ",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.event",
+    "pk": "a692523c-23ec-4741-9866-4de08b4fc58c",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "name": "Suspected Outbreak",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.event",
+    "pk": "d4940bda-69af-466c-a99b-96d9e5a9b87b",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "name": "No new human cases",
+      "status": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "dss.event",
+    "pk": "d9331b55-0c47-43ba-8268-1fd8d598e1f0",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+      "name": "Alerts",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.event",
+    "pk": "e8487387-7afa-41cb-8439-73f7fe5df3db",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "b445bc0f-43c4-438b-af31-22e419c798b8",
+      "name": "Confirmed Outbreak",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "dss.event",
+    "pk": "ea931541-6d92-4db0-8401-54a3736f472f",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "epidemic_phase": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+      "name": "No clinical livestock cases for 45 days",
+      "status": true,
+      "order": 2
+    }
+  }
+]

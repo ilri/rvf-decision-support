@@ -1,0 +1,23 @@
+[
+    {
+        "model": "location.country",
+        "pk": "e58ca297-ca6c-4c61-b496-0af81192b046",
+        "fields": {
+            "created_date": "2023-09-28T18:00:02Z",
+            "updated_date": "2023-09-28T18:00:02Z",
+            "name": "Kenya",
+            "latitude": "1.442000",
+            "longitude": "38.431400",
+            "status": true,
+            "zoom_level": 4,
+            "adm0_feature_collection": "projects/idmt-321615/assets/RVF/boundaries/KEN_adm0",
+            "adm1_feature_collection": "projects/idmt-321615/assets/RVF/boundaries/KEN_adm1",
+            "adm2_feature_collection": "projects/idmt-321615/assets/RVF/boundaries/KEN_adm2",
+            "adm3_feature_collection": "",
+            "adm0_feature_collection_key": "NAME_0",
+            "adm1_feature_collection_key": "name_1",
+            "adm2_feature_collection_key": "name_2",
+            "adm3_feature_collection_key": ""
+        }
+    }
+]

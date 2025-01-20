@@ -1,0 +1,51 @@
+# Name of the Github Workflow
+name: FRONTEND-DEV
+
+# Frontend code will be merged upon receiving a push request to the develop branch.
+on:
+    push:
+        branches: [ develop ]
+        paths: ["web-app/**"]
+
+
+jobs:
+    # frontend-build is build name of frontend (we can choose anything)
+    frontend-build:
+        # It will always Run on ubuntu-latest
+        runs-on: ubuntu-latest
+        strategy:
+            matrix:
+                node-version: [14] # To Install the Node version
+
+        steps:
+            # This Step will checkout the code from above mentioned branch. (In our case its - develop)
+            - name: Checkout Code
+              uses: actions/checkout@v2
+
+            # This step will install the mentioned Node version.
+            - name: Set up Node.js
+              uses: actions/setup-node@v2
+              with:
+                node-version: ${{ matrix.node-version }}
+
+            # Create React Build On Github
+            - name: Create React Build
+              run: |
+                cd ${GITHUB_WORKSPACE}/web-app
+                SECRET_VALUE="${{ secrets.REACT_DEV_ENV }}"
+                echo "$SECRET_VALUE" > .env
+                cat .env
+                npm install --force
+                npm audit fix
+                npm install --save-dev @babel/plugin-proposal-private-property-in-object
+                CI=false npm run build
+
+            # Deploy Created Build Over Github to Server
+            - name: Deploy Build on Server
+              uses: easingthemes/ssh-deploy@v4
+              env:
+                SSH_PRIVATE_KEY: ${{ secrets.EC2_DEV_SECRET_KEY }}
+                SOURCE: "web-app/build/*"
+                REMOTE_HOST: "ec2-43-204-7-2.ap-south-1.compute.amazonaws.com"
+                REMOTE_USER: "ubuntu"
+                TARGET: "/var/www/build"

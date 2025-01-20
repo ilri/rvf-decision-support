@@ -1,0 +1,58 @@
+[
+  {
+    "model": "home.generaltools",
+    "pk": "804987f0-5e50-4048-8529-3bdaccc59d37",
+    "fields": {
+      "created_date": "2023-09-25T15:19:39.123Z",
+      "updated_date": "2023-09-25T15:19:39.123Z",
+      "name": "Resource manager",
+      "description": "Allows to mange the resources properly.",
+      "icon": "retail-money.png",
+      "slug": "resource_manager",
+      "status": false,
+      "order": 4
+    }
+  },
+  {
+    "model": "home.generaltools",
+    "pk": "e481cee4-9fe8-48a4-8a80-07b74eb7ac5b",
+    "fields": {
+      "created_date": "2023-09-25T15:17:39.123Z",
+      "updated_date": "2023-09-25T15:17:39.123Z",
+      "name": "Climate-epidemic interactions",
+      "description": "This dashboard which gives the information about the rainfall and RVF cases across the county and sub-county",
+      "icon": "test-tube.png",
+      "slug": "climate_epidemic_interaction",
+      "status": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "home.generaltools",
+    "pk": "f5e03045-655a-4284-8c5f-01b87c7c0e43",
+    "fields": {
+      "created_date": "2023-09-25T15:18:39.123Z",
+      "updated_date": "2023-09-25T15:18:39.123Z",
+      "name": "Decision support",
+      "description": "Decision-support tool for prevention and control of Rift Valley fever epizootics in the Greater Horn of Africa",
+      "icon": "track-changes.png",
+      "slug": "decison_support",
+      "status": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "home.generaltools",
+    "pk": "78f81c2b-bacd-4ba3-84f7-bfba28fd83f8",
+    "fields": {
+      "created_date": "2023-09-25T15:18:39.123Z",
+      "updated_date": "2023-09-25T15:18:39.123Z",
+      "name": "Rainfall",
+      "description": "This tool provides information about the current rainfall and precipitation across the county and sub-county.",
+      "icon": "cloud-rain.png",
+      "slug": "rainfall",
+      "status": true,
+      "order": 1
+    }
+  }
+]

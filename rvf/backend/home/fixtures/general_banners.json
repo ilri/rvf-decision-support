@@ -1,0 +1,54 @@
+[
+  {
+    "model": "home.generalbanners",
+    "pk": "2e3e265e-f6fc-4fb8-84c9-1a6fd2898e41",
+    "fields": {
+      "created_date": "2023-09-28T18:00:02Z",
+      "updated_date": "2023-09-28T18:00:02Z",
+      "name": "GENERAL_BANNER_2",
+      "image_url": "logo2.png",
+      "description": "A disease information management systems to ensure effective compilation and dissemination of information at all levels",
+      "order": 2,
+      "status": true
+    }
+  },
+  {
+    "model": "home.generalbanners",
+    "pk": "a2555141-636f-4830-9e56-f18a2305e46e",
+    "fields": {
+      "created_date": "2023-09-28T18:00:01Z",
+      "updated_date": "2023-09-28T18:00:01Z",
+      "name": "GENERAL_BANNER_1",
+      "image_url": "logo1.png",
+      "description": "Decision-support tool for prevention & control of Rift Valley fever epizootics in the Greater Horn of Africa",
+      "order": 1,
+      "status": true
+    }
+  },
+  {
+    "model": "home.generalbanners",
+    "pk": "b55aab09-933e-4413-986d-575f35bebc96",
+    "fields": {
+      "created_date": "2023-09-28T18:00:04Z",
+      "updated_date": "2023-09-28T18:00:04Z",
+      "name": "GENERAL_BANNER_4",
+      "image_url": "logo4.png",
+      "description": "Undertake cost-efficacy studies of RVF prevention and control options and feed results into contingency plans",
+      "order": 4,
+      "status": true
+    }
+  },
+  {
+    "model": "home.generalbanners",
+    "pk": "fbdd5570-b853-478f-bea4-925967d9de24",
+    "fields": {
+      "created_date": "2023-09-28T18:00:03Z",
+      "updated_date": "2023-09-28T18:00:03Z",
+      "name": "GENERAL_BANNER_3",
+      "image_url": "logo3.png",
+      "description": "Establish system for routine surveillance of disease in at-risk areas combining trapping with community reports",
+      "order": 3,
+      "status": true
+    }
+  }
+]

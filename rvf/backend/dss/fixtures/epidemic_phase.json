@@ -1,0 +1,46 @@
+[
+  {
+    "model": "dss.epidemicphase",
+    "pk": "369c082e-f263-4c5c-a3fd-4b66a6dfc4b6",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "name": "Recovery phase",
+      "order": 4,
+      "status": true
+    }
+  },
+  {
+    "model": "dss.epidemicphase",
+    "pk": "7fd5941c-6fae-47ef-8133-17b34e0f0132",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "name": "Inter-epidemic period",
+      "order": 1,
+      "status": true
+    }
+  },
+  {
+    "model": "dss.epidemicphase",
+    "pk": "b445bc0f-43c4-438b-af31-22e419c798b8",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "name": "Outbreak",
+      "order": 3,
+      "status": true
+    }
+  },
+  {
+    "model": "dss.epidemicphase",
+    "pk": "f34f4520-0e90-4202-9e5b-27e37472fca9",
+    "fields": {
+      "created_date": "2023-10-05T12:27:33.266Z",
+      "updated_date": "2023-10-05T12:27:33.266Z",
+      "name": "Pre-outbreak",
+      "order": 2,
+      "status": true
+    }
+  }
+]
