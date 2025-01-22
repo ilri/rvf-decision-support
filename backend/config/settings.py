@@ -190,12 +190,15 @@ CSRF_TRUSTED_ORIGINS = [
     "http://3.111.69.105:8000",
     "https://3.111.69.105:8433",
 
-
     "http://13.201.24.139:8000",
     "https://13.201.24.139:8443",
 
     "http://43.204.7.2:8000",
     "https://43.204.7.2:8443",
+
+    "https://rvf.ilri.org",
+    "https://rvf.ilri.org:8443",
+    
 
     ]
 
@@ -245,6 +248,9 @@ REST_SAFE_LIST_IPS = [
 
     "http://43.204.7.2",
     "https://43.204.7.2",
+
+    "http://rvf.ilri.org",
+    "https://rvf.ilri.org",
 
 
 ]
